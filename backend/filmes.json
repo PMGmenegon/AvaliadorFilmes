@@ -1,0 +1,7002 @@
+[
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    },
+    {
+        "titulo": "Hamnet: A Vida Antes de Hamlet",
+        "nota": "7,9",
+        "classificacao": "14",
+        "duracao": "2h 5m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Uma Batalha Após a Outra",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 41m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Marty Supreme",
+        "nota": "7,8",
+        "classificacao": "16",
+        "duracao": "2h 29m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Valor Sentimental",
+        "nota": "7,8",
+        "classificacao": "14",
+        "duracao": "2h 13m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "Zootopia: Essa Cidade é o Bicho",
+        "nota": "8,0",
+        "classificacao": "Livre",
+        "duracao": "1h 48m",
+        "ano": "2016"
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "nota": "9,3",
+        "classificacao": "16",
+        "duracao": "2h 22m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Dhurandhar",
+        "nota": "8,3",
+        "classificacao": null,
+        "duracao": "3h 34m",
+        "ano": "2025"
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "nota": "9,2",
+        "classificacao": "14",
+        "duracao": "2h 55m",
+        "ano": "1972"
+    },
+    {
+        "titulo": "Interestelar",
+        "nota": "8,7",
+        "classificacao": "10",
+        "duracao": "2h 49m",
+        "ano": "2014"
+    },
+    {
+        "titulo": "A Origem",
+        "nota": "8,8",
+        "classificacao": "14",
+        "duracao": "2h 28m",
+        "ano": "2010"
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "nota": "8,9",
+        "classificacao": "12",
+        "duracao": "2h 58m",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "nota": "9,1",
+        "classificacao": "12",
+        "duracao": "2h 32m",
+        "ano": "2008"
+    },
+    {
+        "titulo": "Duna: Parte 2",
+        "nota": "8,4",
+        "classificacao": "14",
+        "duracao": "2h 46m",
+        "ano": "2024"
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 34m",
+        "ano": "1994"
+    },
+    {
+        "titulo": "Top Gun: Maverick",
+        "nota": "8,2",
+        "classificacao": "12",
+        "duracao": "2h 10m",
+        "ano": "2022"
+    },
+    {
+        "titulo": "Sicario: Terra de Ninguém",
+        "nota": "7,7",
+        "classificacao": "16",
+        "duracao": "2h 1m",
+        "ano": "2015"
+    },
+    {
+        "titulo": "Onde os Fracos Não Têm Vez",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "2h 2m",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "nota": "8,5",
+        "classificacao": "18",
+        "duracao": "2h 31m",
+        "ano": "2006"
+    },
+    {
+        "titulo": "Seven - Os Sete Crimes Capitais",
+        "nota": "8,6",
+        "classificacao": "16",
+        "duracao": "2h 7m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "Parasita",
+        "nota": "8,5",
+        "classificacao": "16",
+        "duracao": "2h 12m",
+        "ano": "2019"
+    },
+    {
+        "titulo": "Clube da Luta",
+        "nota": "8,8",
+        "classificacao": "18",
+        "duracao": "2h 19m",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Oppenheimer",
+        "nota": "8,2",
+        "classificacao": "16",
+        "duracao": "3h",
+        "ano": "2023"
+    },
+    {
+        "titulo": "Fogo Contra Fogo",
+        "nota": "8,3",
+        "classificacao": "14",
+        "duracao": "2h 50m",
+        "ano": "1995"
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "nota": "8,6",
+        "classificacao": "14",
+        "duracao": "1h 58m",
+        "ano": "1991"
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "nota": "8,4",
+        "classificacao": "18",
+        "duracao": "2h 33m",
+        "ano": "2009"
+    }
+]
