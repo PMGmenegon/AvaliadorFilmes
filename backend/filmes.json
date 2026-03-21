@@ -242,7 +242,7 @@
     {
         "titulo": "Vanaveera",
         "nota": "70",
-        "duracao": null,
+        "duracao": "2h 6m",
         "ano": "(2026)",
         "generos": [
             "Ação",
@@ -277,17 +277,6 @@
         "generos": [
             "Ação",
             "Ficção científica",
-            "Aventura"
-        ]
-    },
-    {
-        "titulo": "Homem-Aranha: Um Novo Dia",
-        "nota": "0",
-        "duracao": null,
-        "ano": "(2026)",
-        "generos": [
-            "Ficção científica",
-            "Ação",
             "Aventura"
         ]
     },
@@ -627,16 +616,6 @@
             "Aventura",
             "Drama",
             "Ficção científica"
-        ]
-    },
-    {
-        "titulo": "Racek",
-        "nota": "0",
-        "duracao": null,
-        "ano": "(2025)",
-        "generos": [
-            "Comédia",
-            "Drama"
         ]
     },
     {
@@ -1074,15 +1053,6 @@
         ]
     },
     {
-        "titulo": "Petmalu",
-        "nota": "0",
-        "duracao": null,
-        "ano": "(2018)",
-        "generos": [
-            "Comédia"
-        ]
-    },
-    {
         "titulo": "Minha Culpa",
         "nota": "78",
         "duracao": "1h 57m",
@@ -1249,16 +1219,6 @@
             "Comédia",
             "Aventura",
             "Fantasia"
-        ]
-    },
-    {
-        "titulo": "Schüleraustausch",
-        "nota": "59",
-        "duracao": null,
-        "ano": "(2006)",
-        "generos": [
-            "Comédia",
-            "Cinema TV"
         ]
     },
     {
@@ -1834,17 +1794,6 @@
         "generos": [
             "Terror",
             "Thriller"
-        ]
-    },
-    {
-        "titulo": "Evangelion 30+: 30th Anniversary Special",
-        "nota": "77",
-        "duracao": null,
-        "ano": "(2026)",
-        "generos": [
-            "Animação",
-            "Ficção científica",
-            "Comédia"
         ]
     },
     {
@@ -2706,7 +2655,7 @@
     {
         "titulo": "Nang Gabing Mamulat Si Eba",
         "nota": "20",
-        "duracao": null,
+        "duracao": "1h 42m",
         "ano": "(1992)",
         "generos": [
             "Romance"
@@ -3378,17 +3327,6 @@
         ]
     },
     {
-        "titulo": "Dia D",
-        "nota": "0",
-        "duracao": null,
-        "ano": "(2026)",
-        "generos": [
-            "Ficção científica",
-            "Thriller",
-            "Mistério"
-        ]
-    },
-    {
         "titulo": "Prova Final",
         "nota": "66",
         "duracao": "1h 44m",
@@ -3544,15 +3482,6 @@
             "Ação",
             "Ficção científica",
             "Thriller"
-        ]
-    },
-    {
-        "titulo": "Wife Swap",
-        "nota": "10",
-        "duracao": null,
-        "ano": "(2022)",
-        "generos": [
-            "Drama"
         ]
     },
     {
@@ -4602,15 +4531,6 @@
         ]
     },
     {
-        "titulo": "Socias por accidente",
-        "nota": "40",
-        "duracao": null,
-        "ano": "(2026)",
-        "generos": [
-            "Comédia"
-        ]
-    },
-    {
         "titulo": "Toy Story 3",
         "nota": "78",
         "duracao": "1h 43m",
@@ -5655,15 +5575,6 @@
         "generos": [
             "Ação",
             "Crime"
-        ]
-    },
-    {
-        "titulo": "Lyrics from a Bleeding Heart",
-        "nota": "10",
-        "duracao": null,
-        "ano": "(2018)",
-        "generos": [
-            "Drama"
         ]
     },
     {
