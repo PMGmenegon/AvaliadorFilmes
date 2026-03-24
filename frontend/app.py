@@ -1,129 +1,145 @@
 import streamlit as st
 from pyswip import Prolog
 import os
+import random
 
 st.set_page_config(page_title="Avaliador de Filmes", layout="wide")
 
-st.title("🎬 Avaliador de Filmes (Prolog)")
+st.title("🎬 CineAvaliador")
 
-# =========================
-# FUNÇÃO PRA FORMATAR NOME
-# =========================
 def formatar_nome(nome):
     return nome.replace("_", " ").title()
 
-# =========================
-# INICIAR PROLOG (CACHE)
-# =========================
 @st.cache_resource
 def iniciar_prolog():
     prolog = Prolog()
-    caminho = os.path.abspath("backend/filmes.pl")
+    
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    caminho = os.path.join(base_dir, "..", "backend", "regras.pl")
+    caminho = os.path.abspath(caminho)
+
     prolog.consult(caminho)
+    
     return prolog
 
 prolog = iniciar_prolog()
 
 # =========================
-# SIDEBAR (FILTROS)
+# SIDEBAR (FILTROS ATUALIZADOS)
 # =========================
 st.sidebar.header("🎯 Filtros")
 
+# Nota Mínima (numérico)
 nota_min = st.sidebar.slider("Nota mínima", 0, 100, 0)
 
-ano_min, ano_max = st.sidebar.slider(
-    "Ano",
-    1900,
-    2030,
-    (2000, 2025)
+# Gênero (string ou 'qualquer')
+generos = [
+    "qualquer",
+    "acao",
+    "aventura",
+    "animacao",
+    "comedia",
+    "crime",
+    "documentario",
+    "drama",
+    "fantasia",
+    "familia",
+    "ficcao_cientifica",
+    "faroeste",
+    "guerra",
+    "historia",
+    "misterio",
+    "musica",
+    "romance",
+    "terror",
+    "thriller",
+    "cinema_tv"
+]
+
+def formatar_genero(g):
+    return g.replace("_", " ").title()
+
+genero_sel = st.sidebar.selectbox(
+    "Gênero",
+    generos,
+    format_func=formatar_genero
 )
 
-duracao_min, duracao_max = st.sidebar.slider(
-    "Duração (min)",
-    0,
-    300,
-    (0, 300)
-)
+genero_prolog = genero_sel
 
-genero = st.sidebar.text_input("Gênero (ex: acao, comedia)")
+# Duração (Categorizada conforme sua regra Prolog)
+duracao_opcoes = {"Qualquer": "qualquer", "Curto (≤ 90min)": "curto", "Longo (> 90min)": "longo"}
+duracao_sel = st.sidebar.selectbox("Duração", list(duracao_opcoes.keys()))
+duracao_prolog = duracao_opcoes[duracao_sel]
+
+# Ano (Categorizado conforme sua regra Prolog)
+ano_opcoes = {"Qualquer": "qualquer", "Recente (≥ 2016)": "recente", "Antigo (< 2016)": "antigo"}
+ano_sel = st.sidebar.selectbox("Época", list(ano_opcoes.keys()))
+ano_prolog = ano_opcoes[ano_sel]
 
 # =========================
-# CONSULTA BASE
+# CONSULTA USANDO A REGRA recomendar_filme
 # =========================
-query = f"""
-filme(X),
-nota(X, N),
-ano(X, A),
-duracao(X, D),
-N >= {nota_min},
-A >= {ano_min},
-A =< {ano_max},
-D >= {duracao_min},
-D =< {duracao_max}
-"""
+# Note que passamos os átomos do Prolog sem aspas se forem variáveis ou 'qualquer'
+query = f"recomendar_filme(X, {nota_min}, {genero_prolog}, {duracao_prolog}, {ano_prolog})"
 
 resultados = list(prolog.query(query))
 
 # =========================
-# PRÉ-CARREGAR DADOS (EVITA TRAVAR)
+# EXIBIÇÃO DOS RESULTADOS
 # =========================
-dados_filmes = {}
+st.write(f"🎯 {len(resultados)} filmes encontrados")
+
+if resultados:
+    if st.button("🎲 Sortear Filme"):
+        sorteado = random.choice(resultados)
+        nome = sorteado["X"]
+
+        st.success(f"🎬 Filme sorteado: {formatar_nome(nome)}")
+
+        # Buscar detalhes
+        info_nota = list(prolog.query(f"nota({nome}, N)"))
+        info_ano = list(prolog.query(f"ano({nome}, A)"))
+        info_dur = list(prolog.query(f"duracao({nome}, D)"))
+        info_gen = list(prolog.query(f"genero({nome}, G)"))
+
+        st.subheader(formatar_nome(nome))
+
+        generos = [formatar_nome(g["G"]) for g in info_gen]
+        if generos:
+            st.write("🎭 Gêneros:", ", ".join(generos))
+
+        if info_nota: st.write(f"⭐ {info_nota[0]['N']}")
+        if info_ano: st.write(f"📅 {info_ano[0]['A']}")
+        if info_dur: st.write(f"⏱️ {info_dur[0]['D']} min")
+
+        st.divider()
+else:
+    st.warning("Nenhum filme encontrado para os filtros selecionados.")
 
 for r in resultados:
     nome = r["X"]
-
-    # pega tudo uma vez só
-    generos_q = list(prolog.query(f"genero({nome}, G)"))
-    nota_q = list(prolog.query(f"nota({nome}, N)"))
-    ano_q = list(prolog.query(f"ano({nome}, A)"))
-    duracao_q = list(prolog.query(f"duracao({nome}, D)"))
-
-    dados_filmes[nome] = {
-        "generos": [g["G"] for g in generos_q],
-        "nota": nota_q[0]["N"] if nota_q else None,
-        "ano": ano_q[0]["A"] if ano_q else None,
-        "duracao": duracao_q[0]["D"] if duracao_q else None
-    }
-
-# =========================
-# FILTRO DE GÊNERO
-# =========================
-filmes_filtrados = []
-
-for nome, dados in dados_filmes.items():
-    if genero:
-        if genero.lower() not in dados["generos"]:
-            continue
-
-    filmes_filtrados.append(nome)
-
-# =========================
-# RESULTADOS
-# =========================
-st.write(f"🎯 {len(filmes_filtrados)} filmes encontrados")
-
-# =========================
-# EXIBIÇÃO
-# =========================
-for nome in filmes_filtrados:
-    dados = dados_filmes[nome]
+    
+    # Buscamos os detalhes adicionais para exibição
+    # (Prolog retorna o nome do átomo, ex: 'matrix')
+    info_nota = list(prolog.query(f"nota({nome}, N)"))
+    info_ano = list(prolog.query(f"ano({nome}, A)"))
+    info_dur = list(prolog.query(f"duracao({nome}, D)"))
+    info_gen = list(prolog.query(f"genero({nome}, G)"))
 
     col1, col2 = st.columns([3, 1])
 
     with col1:
         st.subheader(formatar_nome(nome))
-
-        lista_generos = [formatar_nome(g) for g in dados["generos"]]
-
-        if lista_generos:
-            st.write("🎭 Gêneros:", ", ".join(lista_generos))
+        generos = [formatar_nome(g["G"]) for g in info_gen]
+        if generos:
+            st.write("🎭 Gêneros:", ", ".join(generos))
 
     with col2:
-        if dados["nota"]:
-            st.write(f"⭐ {dados['nota']}")
-        if dados["ano"]:
-            st.write(f"📅 {dados['ano']}")
-        if dados["duracao"]:
-            st.write(f"⏱️ {dados['duracao']} min")
+        if info_nota: st.write(f"⭐ {info_nota[0]['N']}")
+        if info_ano: st.write(f"📅 {info_ano[0]['A']}")
+        if info_dur: st.write(f"⏱️ {info_dur[0]['D']} min")
 
     st.divider()
+
