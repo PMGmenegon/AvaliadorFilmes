@@ -14,13 +14,13 @@ nota(missao_refugio, 66).
 duracao(missao_refugio, 107).
 ano(missao_refugio, 2026).
 
-filme(avatar:_fogo_e_cinzas).
-genero(avatar:_fogo_e_cinzas, ficcao_cientifica).
-genero(avatar:_fogo_e_cinzas, aventura).
-genero(avatar:_fogo_e_cinzas, fantasia).
-nota(avatar:_fogo_e_cinzas, 73).
-duracao(avatar:_fogo_e_cinzas, 197).
-ano(avatar:_fogo_e_cinzas, 2025).
+filme(avatar_fogo_e_cinzas).
+genero(avatar_fogo_e_cinzas, ficcao_cientifica).
+genero(avatar_fogo_e_cinzas, aventura).
+genero(avatar_fogo_e_cinzas, fantasia).
+nota(avatar_fogo_e_cinzas, 73).
+duracao(avatar_fogo_e_cinzas, 197).
+ano(avatar_fogo_e_cinzas, 2025).
 
 filme(panico_7).
 genero(panico_7, terror).
@@ -71,14 +71,14 @@ nota(uma_batalha_apos_a_outra, 74).
 duracao(uma_batalha_apos_a_outra, 161).
 ano(uma_batalha_apos_a_outra, 2025).
 
-filme(cara_de_um,_focinho_de_outro).
-genero(cara_de_um,_focinho_de_outro, animacao).
-genero(cara_de_um,_focinho_de_outro, familia).
-genero(cara_de_um,_focinho_de_outro, ficcao_cientifica).
-genero(cara_de_um,_focinho_de_outro, comedia).
-nota(cara_de_um,_focinho_de_outro, 77).
-duracao(cara_de_um,_focinho_de_outro, 105).
-ano(cara_de_um,_focinho_de_outro, 2026).
+filme(cara_de_um_focinho_de_outro).
+genero(cara_de_um_focinho_de_outro, animacao).
+genero(cara_de_um_focinho_de_outro, familia).
+genero(cara_de_um_focinho_de_outro, ficcao_cientifica).
+genero(cara_de_um_focinho_de_outro, comedia).
+nota(cara_de_um_focinho_de_outro, 77).
+duracao(cara_de_um_focinho_de_outro, 105).
+ano(cara_de_um_focinho_de_outro, 2026).
 
 filme(justica_artificial).
 genero(justica_artificial, ficcao_cientifica).
@@ -133,21 +133,21 @@ nota(dupla_perigosa, 69).
 duracao(dupla_perigosa, 124).
 ano(dupla_perigosa, 2026).
 
-filme(terror_em_silent_hill:_regresso_para_o_inferno).
-genero(terror_em_silent_hill:_regresso_para_o_inferno, misterio).
-genero(terror_em_silent_hill:_regresso_para_o_inferno, drama).
-genero(terror_em_silent_hill:_regresso_para_o_inferno, terror).
-nota(terror_em_silent_hill:_regresso_para_o_inferno, 50).
-duracao(terror_em_silent_hill:_regresso_para_o_inferno, 106).
-ano(terror_em_silent_hill:_regresso_para_o_inferno, 2026).
+filme(terror_em_silent_hill_regresso_para_o_inferno).
+genero(terror_em_silent_hill_regresso_para_o_inferno, misterio).
+genero(terror_em_silent_hill_regresso_para_o_inferno, drama).
+genero(terror_em_silent_hill_regresso_para_o_inferno, terror).
+nota(terror_em_silent_hill_regresso_para_o_inferno, 50).
+duracao(terror_em_silent_hill_regresso_para_o_inferno, 106).
+ano(terror_em_silent_hill_regresso_para_o_inferno, 2026).
 
-filme(demon_slayer:_kimetsu_no_yaiba_castelo_infinito).
-genero(demon_slayer:_kimetsu_no_yaiba_castelo_infinito, animacao).
-genero(demon_slayer:_kimetsu_no_yaiba_castelo_infinito, acao).
-genero(demon_slayer:_kimetsu_no_yaiba_castelo_infinito, fantasia).
-nota(demon_slayer:_kimetsu_no_yaiba_castelo_infinito, 77).
-duracao(demon_slayer:_kimetsu_no_yaiba_castelo_infinito, 155).
-ano(demon_slayer:_kimetsu_no_yaiba_castelo_infinito, 2025).
+filme(demon_slayer_kimetsu_no_yaiba_castelo_infinito).
+genero(demon_slayer_kimetsu_no_yaiba_castelo_infinito, animacao).
+genero(demon_slayer_kimetsu_no_yaiba_castelo_infinito, acao).
+genero(demon_slayer_kimetsu_no_yaiba_castelo_infinito, fantasia).
+nota(demon_slayer_kimetsu_no_yaiba_castelo_infinito, 77).
+duracao(demon_slayer_kimetsu_no_yaiba_castelo_infinito, 155).
+ano(demon_slayer_kimetsu_no_yaiba_castelo_infinito, 2025).
 
 filme(a_guerra_dos_mundos).
 genero(a_guerra_dos_mundos, ficcao_cientifica).
@@ -186,13 +186,13 @@ nota(cipher_bureau, 44).
 duracao(cipher_bureau, 64).
 ano(cipher_bureau, 1938).
 
-filme(predador:_terras_selvagens).
-genero(predador:_terras_selvagens, acao).
-genero(predador:_terras_selvagens, ficcao_cientifica).
-genero(predador:_terras_selvagens, aventura).
-nota(predador:_terras_selvagens, 77).
-duracao(predador:_terras_selvagens, 107).
-ano(predador:_terras_selvagens, 2025).
+filme(predador_terras_selvagens).
+genero(predador_terras_selvagens, acao).
+genero(predador_terras_selvagens, ficcao_cientifica).
+genero(predador_terras_selvagens, aventura).
+nota(predador_terras_selvagens, 77).
+duracao(predador_terras_selvagens, 107).
+ano(predador_terras_selvagens, 2025).
 
 filme(alpha).
 genero(alpha, terror).
@@ -203,19 +203,19 @@ nota(alpha, 64).
 duracao(alpha, 122).
 ano(alpha, 2025).
 
-filme(boa_sorte,_divirta-se,_nao_morra).
-genero(boa_sorte,_divirta-se,_nao_morra, ficcao_cientifica).
-genero(boa_sorte,_divirta-se,_nao_morra, acao).
-genero(boa_sorte,_divirta-se,_nao_morra, comedia).
-nota(boa_sorte,_divirta-se,_nao_morra, 69).
-duracao(boa_sorte,_divirta-se,_nao_morra, 134).
-ano(boa_sorte,_divirta-se,_nao_morra, 2026).
+filme(boa_sorte_divirtase_nao_morra).
+genero(boa_sorte_divirtase_nao_morra, ficcao_cientifica).
+genero(boa_sorte_divirtase_nao_morra, acao).
+genero(boa_sorte_divirtase_nao_morra, comedia).
+nota(boa_sorte_divirtase_nao_morra, 69).
+duracao(boa_sorte_divirtase_nao_morra, 134).
+ano(boa_sorte_divirtase_nao_morra, 2026).
 
-filme(re/member:_a_ultima_noite).
-genero(re/member:_a_ultima_noite, terror).
-nota(re/member:_a_ultima_noite, 47).
-duracao(re/member:_a_ultima_noite, 94).
-ano(re/member:_a_ultima_noite, 2025).
+filme(remember_a_ultima_noite).
+genero(remember_a_ultima_noite, terror).
+nota(remember_a_ultima_noite, 47).
+duracao(remember_a_ultima_noite, 94).
+ano(remember_a_ultima_noite, 2025).
 
 filme(anaconda).
 genero(anaconda, aventura).
@@ -242,13 +242,13 @@ nota(divisao_de_homicidios, 52).
 duracao(divisao_de_homicidios, 116).
 ano(divisao_de_homicidios, 2003).
 
-filme(davi:_nasce_um_rei).
-genero(davi:_nasce_um_rei, animacao).
-genero(davi:_nasce_um_rei, familia).
-genero(davi:_nasce_um_rei, drama).
-nota(davi:_nasce_um_rei, 80).
-duracao(davi:_nasce_um_rei, 115).
-ano(davi:_nasce_um_rei, 2025).
+filme(davi_nasce_um_rei).
+genero(davi_nasce_um_rei, animacao).
+genero(davi_nasce_um_rei, familia).
+genero(davi_nasce_um_rei, drama).
+nota(davi_nasce_um_rei, 80).
+duracao(davi_nasce_um_rei, 115).
+ano(davi_nasce_um_rei, 2025).
 
 filme(triplo_x).
 genero(triplo_x, acao).
@@ -281,13 +281,13 @@ nota(sede_de_vinganca, 61).
 duracao(sede_de_vinganca, 98).
 ano(sede_de_vinganca, 1963).
 
-filme(hamnet:_a_vida_antes_de_hamlet).
-genero(hamnet:_a_vida_antes_de_hamlet, drama).
-genero(hamnet:_a_vida_antes_de_hamlet, romance).
-genero(hamnet:_a_vida_antes_de_hamlet, historia).
-nota(hamnet:_a_vida_antes_de_hamlet, 77).
-duracao(hamnet:_a_vida_antes_de_hamlet, 126).
-ano(hamnet:_a_vida_antes_de_hamlet, 2025).
+filme(hamnet_a_vida_antes_de_hamlet).
+genero(hamnet_a_vida_antes_de_hamlet, drama).
+genero(hamnet_a_vida_antes_de_hamlet, romance).
+genero(hamnet_a_vida_antes_de_hamlet, historia).
+nota(hamnet_a_vida_antes_de_hamlet, 77).
+duracao(hamnet_a_vida_antes_de_hamlet, 126).
+ano(hamnet_a_vida_antes_de_hamlet, 2025).
 
 filme(marty_supreme).
 genero(marty_supreme, drama).
@@ -318,13 +318,13 @@ nota(alerta_apocalipse, 67).
 duracao(alerta_apocalipse, 99).
 ano(alerta_apocalipse, 2026).
 
-filme(exterminio:_o_templo_dos_ossos).
-genero(exterminio:_o_templo_dos_ossos, terror).
-genero(exterminio:_o_templo_dos_ossos, thriller).
-genero(exterminio:_o_templo_dos_ossos, ficcao_cientifica).
-nota(exterminio:_o_templo_dos_ossos, 72).
-duracao(exterminio:_o_templo_dos_ossos, 109).
-ano(exterminio:_o_templo_dos_ossos, 2026).
+filme(exterminio_o_templo_dos_ossos).
+genero(exterminio_o_templo_dos_ossos, terror).
+genero(exterminio_o_templo_dos_ossos, thriller).
+genero(exterminio_o_templo_dos_ossos, ficcao_cientifica).
+nota(exterminio_o_templo_dos_ossos, 72).
+duracao(exterminio_o_templo_dos_ossos, 109).
+ano(exterminio_o_templo_dos_ossos, 2026).
 
 filme(os_tambores_chamam_para_a_guerra).
 genero(os_tambores_chamam_para_a_guerra, faroeste).
@@ -338,14 +338,14 @@ nota(house_on_eden, 47).
 duracao(house_on_eden, 77).
 ano(house_on_eden, 2025).
 
-filme(guerreiras_do_k-pop).
-genero(guerreiras_do_k-pop, fantasia).
-genero(guerreiras_do_k-pop, musica).
-genero(guerreiras_do_k-pop, comedia).
-genero(guerreiras_do_k-pop, animacao).
-nota(guerreiras_do_k-pop, 80).
-duracao(guerreiras_do_k-pop, 95).
-ano(guerreiras_do_k-pop, 2025).
+filme(guerreiras_do_kpop).
+genero(guerreiras_do_kpop, fantasia).
+genero(guerreiras_do_kpop, musica).
+genero(guerreiras_do_kpop, comedia).
+genero(guerreiras_do_kpop, animacao).
+nota(guerreiras_do_kpop, 80).
+duracao(guerreiras_do_kpop, 95).
+ano(guerreiras_do_kpop, 2025).
 
 filme(wildcat).
 genero(wildcat, acao).
@@ -361,14 +361,14 @@ nota(as_aventuras_de_robinson_crusoe, 63).
 duracao(as_aventuras_de_robinson_crusoe, 90).
 ano(as_aventuras_de_robinson_crusoe, 1954).
 
-filme(salve_geral:_irmandade).
-genero(salve_geral:_irmandade, acao).
-genero(salve_geral:_irmandade, thriller).
-genero(salve_geral:_irmandade, crime).
-genero(salve_geral:_irmandade, drama).
-nota(salve_geral:_irmandade, 54).
-duracao(salve_geral:_irmandade, 103).
-ano(salve_geral:_irmandade, 2026).
+filme(salve_geral_irmandade).
+genero(salve_geral_irmandade, acao).
+genero(salve_geral_irmandade, thriller).
+genero(salve_geral_irmandade, crime).
+genero(salve_geral_irmandade, drama).
+nota(salve_geral_irmandade, 54).
+duracao(salve_geral_irmandade, 103).
+ano(salve_geral_irmandade, 2026).
 
 filme(frankenstein).
 genero(frankenstein, drama).
@@ -402,20 +402,20 @@ nota(amor_em_jogo, 62).
 duracao(amor_em_jogo, 104).
 ano(amor_em_jogo, 2005).
 
-filme(jujutsu_kaisen:_execucao).
-genero(jujutsu_kaisen:_execucao, animacao).
-genero(jujutsu_kaisen:_execucao, acao).
-genero(jujutsu_kaisen:_execucao, fantasia).
-nota(jujutsu_kaisen:_execucao, 58).
-duracao(jujutsu_kaisen:_execucao, 88).
-ano(jujutsu_kaisen:_execucao, 2025).
+filme(jujutsu_kaisen_execucao).
+genero(jujutsu_kaisen_execucao, animacao).
+genero(jujutsu_kaisen_execucao, acao).
+genero(jujutsu_kaisen_execucao, fantasia).
+nota(jujutsu_kaisen_execucao, 58).
+duracao(jujutsu_kaisen_execucao, 88).
+ano(jujutsu_kaisen_execucao, 2025).
 
-filme(truque_de_mestre:_o_3_ato).
-genero(truque_de_mestre:_o_3_ato, thriller).
-genero(truque_de_mestre:_o_3_ato, crime).
-nota(truque_de_mestre:_o_3_ato, 65).
-duracao(truque_de_mestre:_o_3_ato, 112).
-ano(truque_de_mestre:_o_3_ato, 2025).
+filme(truque_de_mestre_o_3_ato).
+genero(truque_de_mestre_o_3_ato, thriller).
+genero(truque_de_mestre_o_3_ato, crime).
+nota(truque_de_mestre_o_3_ato, 65).
+duracao(truque_de_mestre_o_3_ato, 112).
+ano(truque_de_mestre_o_3_ato, 2025).
 
 filme(um_sonho_de_liberdade).
 genero(um_sonho_de_liberdade, drama).
@@ -445,13 +445,13 @@ nota(uma_segunda_chance, 70).
 duracao(uma_segunda_chance, 114).
 ano(uma_segunda_chance, 2026).
 
-filme(os_vingadores:_the_avengers).
-genero(os_vingadores:_the_avengers, ficcao_cientifica).
-genero(os_vingadores:_the_avengers, acao).
-genero(os_vingadores:_the_avengers, aventura).
-nota(os_vingadores:_the_avengers, 80).
-duracao(os_vingadores:_the_avengers, 143).
-ano(os_vingadores:_the_avengers, 2012).
+filme(os_vingadores_the_avengers).
+genero(os_vingadores_the_avengers, ficcao_cientifica).
+genero(os_vingadores_the_avengers, acao).
+genero(os_vingadores_the_avengers, aventura).
+nota(os_vingadores_the_avengers, 80).
+duracao(os_vingadores_the_avengers, 143).
+ano(os_vingadores_the_avengers, 2012).
 
 filme(cercados).
 genero(cercados, faroeste).
@@ -474,27 +474,27 @@ nota(abot_langit, 50).
 duracao(abot_langit, 70).
 ano(abot_langit, 2026).
 
-filme(baahubali:_the_epic).
-genero(baahubali:_the_epic, acao).
-genero(baahubali:_the_epic, drama).
-nota(baahubali:_the_epic, 60).
-duracao(baahubali:_the_epic, 225).
-ano(baahubali:_the_epic, 2025).
+filme(baahubali_the_epic).
+genero(baahubali_the_epic, acao).
+genero(baahubali_the_epic, drama).
+nota(baahubali_the_epic, 60).
+duracao(baahubali_the_epic, 225).
+ano(baahubali_the_epic, 2025).
 
-filme(paulie_-_o_papagaio_bom_de_papo).
-genero(paulie_-_o_papagaio_bom_de_papo, drama).
-genero(paulie_-_o_papagaio_bom_de_papo, comedia).
-genero(paulie_-_o_papagaio_bom_de_papo, familia).
-genero(paulie_-_o_papagaio_bom_de_papo, aventura).
-nota(paulie_-_o_papagaio_bom_de_papo, 69).
-duracao(paulie_-_o_papagaio_bom_de_papo, 91).
-ano(paulie_-_o_papagaio_bom_de_papo, 1998).
+filme(paulie__o_papagaio_bom_de_papo).
+genero(paulie__o_papagaio_bom_de_papo, drama).
+genero(paulie__o_papagaio_bom_de_papo, comedia).
+genero(paulie__o_papagaio_bom_de_papo, familia).
+genero(paulie__o_papagaio_bom_de_papo, aventura).
+nota(paulie__o_papagaio_bom_de_papo, 69).
+duracao(paulie__o_papagaio_bom_de_papo, 91).
+ano(paulie__o_papagaio_bom_de_papo, 1998).
 
-filme(desejos_&_traicoes).
-genero(desejos_&_traicoes, drama).
-nota(desejos_&_traicoes, 48).
-duracao(desejos_&_traicoes, 113).
-ano(desejos_&_traicoes, 2005).
+filme(desejos__traicoes).
+genero(desejos__traicoes, drama).
+nota(desejos__traicoes, 48).
+duracao(desejos__traicoes, 113).
+ano(desejos__traicoes, 2005).
 
 filme(turbulencia).
 genero(turbulencia, thriller).
@@ -506,20 +506,20 @@ nota(turbulencia, 59).
 duracao(turbulencia, 95).
 ano(turbulencia, 2025).
 
-filme(dhurandhar:_the_revenge).
-genero(dhurandhar:_the_revenge, acao).
-genero(dhurandhar:_the_revenge, crime).
-genero(dhurandhar:_the_revenge, thriller).
-nota(dhurandhar:_the_revenge, 78).
-duracao(dhurandhar:_the_revenge, 235).
-ano(dhurandhar:_the_revenge, 2026).
+filme(dhurandhar_the_revenge).
+genero(dhurandhar_the_revenge, acao).
+genero(dhurandhar_the_revenge, crime).
+genero(dhurandhar_the_revenge, thriller).
+nota(dhurandhar_the_revenge, 78).
+duracao(dhurandhar_the_revenge, 235).
+ano(dhurandhar_the_revenge, 2026).
 
-filme(f1:_o_filme).
-genero(f1:_o_filme, acao).
-genero(f1:_o_filme, drama).
-nota(f1:_o_filme, 78).
-duracao(f1:_o_filme, 155).
-ano(f1:_o_filme, 2025).
+filme(f1_o_filme).
+genero(f1_o_filme, acao).
+genero(f1_o_filme, drama).
+nota(f1_o_filme, 78).
+duracao(f1_o_filme, 155).
+ano(f1_o_filme, 2025).
 
 filme(ligaw).
 genero(ligaw, drama).
@@ -586,13 +586,13 @@ nota(last_summer, 67).
 duracao(last_summer, 97).
 ano(last_summer, 2018).
 
-filme(dracula_-_uma_historia_de_amor_eterno).
-genero(dracula_-_uma_historia_de_amor_eterno, terror).
-genero(dracula_-_uma_historia_de_amor_eterno, fantasia).
-genero(dracula_-_uma_historia_de_amor_eterno, romance).
-nota(dracula_-_uma_historia_de_amor_eterno, 71).
-duracao(dracula_-_uma_historia_de_amor_eterno, 129).
-ano(dracula_-_uma_historia_de_amor_eterno, 2025).
+filme(dracula__uma_historia_de_amor_eterno).
+genero(dracula__uma_historia_de_amor_eterno, terror).
+genero(dracula__uma_historia_de_amor_eterno, fantasia).
+genero(dracula__uma_historia_de_amor_eterno, romance).
+nota(dracula__uma_historia_de_amor_eterno, 71).
+duracao(dracula__uma_historia_de_amor_eterno, 129).
+ano(dracula__uma_historia_de_amor_eterno, 2025).
 
 filme(preparada_para_a_guerra).
 genero(preparada_para_a_guerra, ficcao_cientifica).
@@ -629,13 +629,13 @@ nota(kraken, 62).
 duracao(kraken, 94).
 ano(kraken, 2026).
 
-filme(tintorera_-_assassino_dos_mares).
-genero(tintorera_-_assassino_dos_mares, drama).
-genero(tintorera_-_assassino_dos_mares, thriller).
-genero(tintorera_-_assassino_dos_mares, terror).
-nota(tintorera_-_assassino_dos_mares, 38).
-duracao(tintorera_-_assassino_dos_mares, 126).
-ano(tintorera_-_assassino_dos_mares, 1977).
+filme(tintorera__assassino_dos_mares).
+genero(tintorera__assassino_dos_mares, drama).
+genero(tintorera__assassino_dos_mares, thriller).
+genero(tintorera__assassino_dos_mares, terror).
+nota(tintorera__assassino_dos_mares, 38).
+duracao(tintorera__assassino_dos_mares, 126).
+ano(tintorera__assassino_dos_mares, 1977).
 
 filme(o_sobrevivente).
 genero(o_sobrevivente, acao).
@@ -645,13 +645,13 @@ nota(o_sobrevivente, 68).
 duracao(o_sobrevivente, 130).
 ano(o_sobrevivente, 2025).
 
-filme(peaky_blinders:_o_homem_imortal).
-genero(peaky_blinders:_o_homem_imortal, crime).
-genero(peaky_blinders:_o_homem_imortal, drama).
-genero(peaky_blinders:_o_homem_imortal, guerra).
-nota(peaky_blinders:_o_homem_imortal, 82).
-duracao(peaky_blinders:_o_homem_imortal, 112).
-ano(peaky_blinders:_o_homem_imortal, 2026).
+filme(peaky_blinders_o_homem_imortal).
+genero(peaky_blinders_o_homem_imortal, crime).
+genero(peaky_blinders_o_homem_imortal, drama).
+genero(peaky_blinders_o_homem_imortal, guerra).
+nota(peaky_blinders_o_homem_imortal, 82).
+duracao(peaky_blinders_o_homem_imortal, 112).
+ano(peaky_blinders_o_homem_imortal, 2026).
 
 filme(como_conquistar_as_mulheres).
 genero(como_conquistar_as_mulheres, comedia).
@@ -691,13 +691,13 @@ nota(o_troll_da_montanha_2, 65).
 duracao(o_troll_da_montanha_2, 102).
 ano(o_troll_da_montanha_2, 2025).
 
-filme(homem-aranha:_sem_volta_para_casa).
-genero(homem-aranha:_sem_volta_para_casa, acao).
-genero(homem-aranha:_sem_volta_para_casa, aventura).
-genero(homem-aranha:_sem_volta_para_casa, ficcao_cientifica).
-nota(homem-aranha:_sem_volta_para_casa, 79).
-duracao(homem-aranha:_sem_volta_para_casa, 149).
-ano(homem-aranha:_sem_volta_para_casa, 2021).
+filme(homemaranha_sem_volta_para_casa).
+genero(homemaranha_sem_volta_para_casa, acao).
+genero(homemaranha_sem_volta_para_casa, aventura).
+genero(homemaranha_sem_volta_para_casa, ficcao_cientifica).
+nota(homemaranha_sem_volta_para_casa, 79).
+duracao(homemaranha_sem_volta_para_casa, 149).
+ano(homemaranha_sem_volta_para_casa, 2021).
 
 filme(the_enchanted).
 genero(the_enchanted, misterio).
@@ -707,12 +707,12 @@ nota(the_enchanted, 54).
 duracao(the_enchanted, 90).
 ano(the_enchanted, 1984).
 
-filme(alien:_covenant).
-genero(alien:_covenant, terror).
-genero(alien:_covenant, ficcao_cientifica).
-nota(alien:_covenant, 62).
-duracao(alien:_covenant, 122).
-ano(alien:_covenant, 2017).
+filme(alien_covenant).
+genero(alien_covenant, terror).
+genero(alien_covenant, ficcao_cientifica).
+nota(alien_covenant, 62).
+duracao(alien_covenant, 122).
+ano(alien_covenant, 2017).
 
 filme(violet_no_mundo_da_fantasia).
 genero(violet_no_mundo_da_fantasia, fantasia).
@@ -730,21 +730,21 @@ nota(minha_culpa, 78).
 duracao(minha_culpa, 117).
 ano(minha_culpa, 2023).
 
-filme(jurassic_world:_recomeco).
-genero(jurassic_world:_recomeco, ficcao_cientifica).
-genero(jurassic_world:_recomeco, aventura).
-genero(jurassic_world:_recomeco, acao).
-nota(jurassic_world:_recomeco, 63).
-duracao(jurassic_world:_recomeco, 134).
-ano(jurassic_world:_recomeco, 2025).
+filme(jurassic_world_recomeco).
+genero(jurassic_world_recomeco, ficcao_cientifica).
+genero(jurassic_world_recomeco, aventura).
+genero(jurassic_world_recomeco, acao).
+nota(jurassic_world_recomeco, 63).
+duracao(jurassic_world_recomeco, 134).
+ano(jurassic_world_recomeco, 2025).
 
-filme(vingadores:_guerra_infinita).
-genero(vingadores:_guerra_infinita, aventura).
-genero(vingadores:_guerra_infinita, acao).
-genero(vingadores:_guerra_infinita, ficcao_cientifica).
-nota(vingadores:_guerra_infinita, 82).
-duracao(vingadores:_guerra_infinita, 148).
-ano(vingadores:_guerra_infinita, 2018).
+filme(vingadores_guerra_infinita).
+genero(vingadores_guerra_infinita, aventura).
+genero(vingadores_guerra_infinita, acao).
+genero(vingadores_guerra_infinita, ficcao_cientifica).
+nota(vingadores_guerra_infinita, 82).
+duracao(vingadores_guerra_infinita, 148).
+ano(vingadores_guerra_infinita, 2018).
 
 filme(duna).
 genero(duna, ficcao_cientifica).
@@ -753,13 +753,13 @@ nota(duna, 78).
 duracao(duna, 155).
 ano(duna, 2021).
 
-filme(casamento_sangrento:_a_viuva).
-genero(casamento_sangrento:_a_viuva, terror).
-genero(casamento_sangrento:_a_viuva, thriller).
-genero(casamento_sangrento:_a_viuva, comedia).
-nota(casamento_sangrento:_a_viuva, 74).
-duracao(casamento_sangrento:_a_viuva, 108).
-ano(casamento_sangrento:_a_viuva, 2026).
+filme(casamento_sangrento_a_viuva).
+genero(casamento_sangrento_a_viuva, terror).
+genero(casamento_sangrento_a_viuva, thriller).
+genero(casamento_sangrento_a_viuva, comedia).
+nota(casamento_sangrento_a_viuva, 74).
+duracao(casamento_sangrento_a_viuva, 108).
+ano(casamento_sangrento_a_viuva, 2026).
 
 filme(jay_kelly).
 genero(jay_kelly, drama).
@@ -803,23 +803,23 @@ nota(superstition, 61).
 duracao(superstition, 85).
 ano(superstition, 1982).
 
-filme(super_mario_bros._o_filme).
-genero(super_mario_bros._o_filme, familia).
-genero(super_mario_bros._o_filme, comedia).
-genero(super_mario_bros._o_filme, aventura).
-genero(super_mario_bros._o_filme, animacao).
-genero(super_mario_bros._o_filme, fantasia).
-nota(super_mario_bros._o_filme, 76).
-duracao(super_mario_bros._o_filme, 92).
-ano(super_mario_bros._o_filme, 2023).
+filme(super_mario_bros_o_filme).
+genero(super_mario_bros_o_filme, familia).
+genero(super_mario_bros_o_filme, comedia).
+genero(super_mario_bros_o_filme, aventura).
+genero(super_mario_bros_o_filme, animacao).
+genero(super_mario_bros_o_filme, fantasia).
+nota(super_mario_bros_o_filme, 76).
+duracao(super_mario_bros_o_filme, 92).
+ano(super_mario_bros_o_filme, 2023).
 
-filme(a_noiva!).
-genero(a_noiva!, ficcao_cientifica).
-genero(a_noiva!, terror).
-genero(a_noiva!, fantasia).
-nota(a_noiva!, 63).
-duracao(a_noiva!, 126).
-ano(a_noiva!, 2026).
+filme(a_noiva).
+genero(a_noiva, ficcao_cientifica).
+genero(a_noiva, terror).
+genero(a_noiva, fantasia).
+nota(a_noiva, 63).
+duracao(a_noiva, 126).
+ano(a_noiva, 2026).
 
 filme(advogado_do_diabo).
 genero(advogado_do_diabo, terror).
@@ -829,15 +829,15 @@ nota(advogado_do_diabo, 75).
 duracao(advogado_do_diabo, 143).
 ano(advogado_do_diabo, 1997).
 
-filme(bob_esponja:_em_busca_da_calca_quadrada).
-genero(bob_esponja:_em_busca_da_calca_quadrada, animacao).
-genero(bob_esponja:_em_busca_da_calca_quadrada, familia).
-genero(bob_esponja:_em_busca_da_calca_quadrada, comedia).
-genero(bob_esponja:_em_busca_da_calca_quadrada, aventura).
-genero(bob_esponja:_em_busca_da_calca_quadrada, fantasia).
-nota(bob_esponja:_em_busca_da_calca_quadrada, 68).
-duracao(bob_esponja:_em_busca_da_calca_quadrada, 88).
-ano(bob_esponja:_em_busca_da_calca_quadrada, 2025).
+filme(bob_esponja_em_busca_da_calca_quadrada).
+genero(bob_esponja_em_busca_da_calca_quadrada, animacao).
+genero(bob_esponja_em_busca_da_calca_quadrada, familia).
+genero(bob_esponja_em_busca_da_calca_quadrada, comedia).
+genero(bob_esponja_em_busca_da_calca_quadrada, aventura).
+genero(bob_esponja_em_busca_da_calca_quadrada, fantasia).
+nota(bob_esponja_em_busca_da_calca_quadrada, 68).
+duracao(bob_esponja_em_busca_da_calca_quadrada, 88).
+ano(bob_esponja_em_busca_da_calca_quadrada, 2025).
 
 filme(a_hora_do_mal).
 genero(a_hora_do_mal, terror).
@@ -846,22 +846,22 @@ nota(a_hora_do_mal, 73).
 duracao(a_hora_do_mal, 129).
 ano(a_hora_do_mal, 2025).
 
-filme(chainsaw_man__o_filme:_arco_da_reze).
-genero(chainsaw_man__o_filme:_arco_da_reze, animacao).
-genero(chainsaw_man__o_filme:_arco_da_reze, acao).
-genero(chainsaw_man__o_filme:_arco_da_reze, romance).
-genero(chainsaw_man__o_filme:_arco_da_reze, fantasia).
-nota(chainsaw_man__o_filme:_arco_da_reze, 83).
-duracao(chainsaw_man__o_filme:_arco_da_reze, 100).
-ano(chainsaw_man__o_filme:_arco_da_reze, 2025).
+filme(chainsaw_man__o_filme_arco_da_reze).
+genero(chainsaw_man__o_filme_arco_da_reze, animacao).
+genero(chainsaw_man__o_filme_arco_da_reze, acao).
+genero(chainsaw_man__o_filme_arco_da_reze, romance).
+genero(chainsaw_man__o_filme_arco_da_reze, fantasia).
+nota(chainsaw_man__o_filme_arco_da_reze, 83).
+duracao(chainsaw_man__o_filme_arco_da_reze, 100).
+ano(chainsaw_man__o_filme_arco_da_reze, 2025).
 
-filme(farejando_vinganca_2:_cidade_dos_lobos).
-genero(farejando_vinganca_2:_cidade_dos_lobos, acao).
-genero(farejando_vinganca_2:_cidade_dos_lobos, thriller).
-genero(farejando_vinganca_2:_cidade_dos_lobos, misterio).
-nota(farejando_vinganca_2:_cidade_dos_lobos, 67).
-duracao(farejando_vinganca_2:_cidade_dos_lobos, 93).
-ano(farejando_vinganca_2:_cidade_dos_lobos, 2025).
+filme(farejando_vinganca_2_cidade_dos_lobos).
+genero(farejando_vinganca_2_cidade_dos_lobos, acao).
+genero(farejando_vinganca_2_cidade_dos_lobos, thriller).
+genero(farejando_vinganca_2_cidade_dos_lobos, misterio).
+nota(farejando_vinganca_2_cidade_dos_lobos, 67).
+duracao(farejando_vinganca_2_cidade_dos_lobos, 93).
+ano(farejando_vinganca_2_cidade_dos_lobos, 2025).
 
 filme(um_dia_fora_de_controle).
 genero(um_dia_fora_de_controle, acao).
@@ -877,13 +877,13 @@ nota(bingo_bongo, 57).
 duracao(bingo_bongo, 102).
 ano(bingo_bongo, 1982).
 
-filme(tron:_ares).
-genero(tron:_ares, ficcao_cientifica).
-genero(tron:_ares, aventura).
-genero(tron:_ares, acao).
-nota(tron:_ares, 65).
-duracao(tron:_ares, 119).
-ano(tron:_ares, 2025).
+filme(tron_ares).
+genero(tron_ares, ficcao_cientifica).
+genero(tron_ares, aventura).
+genero(tron_ares, acao).
+nota(tron_ares, 65).
+duracao(tron_ares, 119).
+ano(tron_ares, 2025).
 
 filme(deadly_game).
 genero(deadly_game, misterio).
@@ -900,12 +900,12 @@ nota(o_agente_secreto, 73).
 duracao(o_agente_secreto, 158).
 ano(o_agente_secreto, 2025).
 
-filme(duna:_parte_dois).
-genero(duna:_parte_dois, ficcao_cientifica).
-genero(duna:_parte_dois, aventura).
-nota(duna:_parte_dois, 81).
-duracao(duna:_parte_dois, 166).
-ano(duna:_parte_dois, 2024).
+filme(duna_parte_dois).
+genero(duna_parte_dois, ficcao_cientifica).
+genero(duna_parte_dois, aventura).
+nota(duna_parte_dois, 81).
+duracao(duna_parte_dois, 166).
+ano(duna_parte_dois, 2024).
 
 filme(projeto_extracao).
 genero(projeto_extracao, acao).
@@ -929,21 +929,21 @@ nota(nuremberg, 73).
 duracao(nuremberg, 148).
 ano(nuremberg, 2025).
 
-filme(blades_of_the_guardians:_wind_rises_in_the_desert).
-genero(blades_of_the_guardians:_wind_rises_in_the_desert, acao).
-genero(blades_of_the_guardians:_wind_rises_in_the_desert, drama).
-genero(blades_of_the_guardians:_wind_rises_in_the_desert, historia).
-nota(blades_of_the_guardians:_wind_rises_in_the_desert, 74).
-duracao(blades_of_the_guardians:_wind_rises_in_the_desert, 126).
-ano(blades_of_the_guardians:_wind_rises_in_the_desert, 2026).
+filme(blades_of_the_guardians_wind_rises_in_the_desert).
+genero(blades_of_the_guardians_wind_rises_in_the_desert, acao).
+genero(blades_of_the_guardians_wind_rises_in_the_desert, drama).
+genero(blades_of_the_guardians_wind_rises_in_the_desert, historia).
+nota(blades_of_the_guardians_wind_rises_in_the_desert, 74).
+duracao(blades_of_the_guardians_wind_rises_in_the_desert, 126).
+ano(blades_of_the_guardians_wind_rises_in_the_desert, 2026).
 
-filme(o_senhor_dos_aneis:_a_sociedade_do_anel).
-genero(o_senhor_dos_aneis:_a_sociedade_do_anel, aventura).
-genero(o_senhor_dos_aneis:_a_sociedade_do_anel, fantasia).
-genero(o_senhor_dos_aneis:_a_sociedade_do_anel, acao).
-nota(o_senhor_dos_aneis:_a_sociedade_do_anel, 84).
-duracao(o_senhor_dos_aneis:_a_sociedade_do_anel, 179).
-ano(o_senhor_dos_aneis:_a_sociedade_do_anel, 2001).
+filme(o_senhor_dos_aneis_a_sociedade_do_anel).
+genero(o_senhor_dos_aneis_a_sociedade_do_anel, aventura).
+genero(o_senhor_dos_aneis_a_sociedade_do_anel, fantasia).
+genero(o_senhor_dos_aneis_a_sociedade_do_anel, acao).
+nota(o_senhor_dos_aneis_a_sociedade_do_anel, 84).
+duracao(o_senhor_dos_aneis_a_sociedade_do_anel, 179).
+ano(o_senhor_dos_aneis_a_sociedade_do_anel, 2001).
 
 filme(superman).
 genero(superman, ficcao_cientifica).
@@ -960,12 +960,12 @@ nota(titanic, 79).
 duracao(titanic, 194).
 ano(titanic, 1997).
 
-filme(homem-aranha).
-genero(homem-aranha, acao).
-genero(homem-aranha, ficcao_cientifica).
-nota(homem-aranha, 73).
-duracao(homem-aranha, 121).
-ano(homem-aranha, 2002).
+filme(homemaranha).
+genero(homemaranha, acao).
+genero(homemaranha, ficcao_cientifica).
+nota(homemaranha, 73).
+duracao(homemaranha, 121).
+ano(homemaranha, 2002).
 
 filme(zombie_prom).
 genero(zombie_prom, terror).
@@ -989,14 +989,14 @@ nota(avatar, 76).
 duracao(avatar, 179).
 ano(avatar, 2009).
 
-filme(zootopia:_essa_cidade_e_o_bicho).
-genero(zootopia:_essa_cidade_e_o_bicho, animacao).
-genero(zootopia:_essa_cidade_e_o_bicho, aventura).
-genero(zootopia:_essa_cidade_e_o_bicho, familia).
-genero(zootopia:_essa_cidade_e_o_bicho, comedia).
-nota(zootopia:_essa_cidade_e_o_bicho, 78).
-duracao(zootopia:_essa_cidade_e_o_bicho, 108).
-ano(zootopia:_essa_cidade_e_o_bicho, 2016).
+filme(zootopia_essa_cidade_e_o_bicho).
+genero(zootopia_essa_cidade_e_o_bicho, animacao).
+genero(zootopia_essa_cidade_e_o_bicho, aventura).
+genero(zootopia_essa_cidade_e_o_bicho, familia).
+genero(zootopia_essa_cidade_e_o_bicho, comedia).
+nota(zootopia_essa_cidade_e_o_bicho, 78).
+duracao(zootopia_essa_cidade_e_o_bicho, 108).
+ano(zootopia_essa_cidade_e_o_bicho, 2016).
 
 filme(ensaio_fatal).
 genero(ensaio_fatal, thriller).
@@ -1018,20 +1018,20 @@ nota(plano_em_familia, 72).
 duracao(plano_em_familia, 119).
 ano(plano_em_familia, 2023).
 
-filme(celestina:_burlesk_dancer).
-genero(celestina:_burlesk_dancer, drama).
-genero(celestina:_burlesk_dancer, romance).
-nota(celestina:_burlesk_dancer, 30).
-duracao(celestina:_burlesk_dancer, 119).
-ano(celestina:_burlesk_dancer, 2024).
+filme(celestina_burlesk_dancer).
+genero(celestina_burlesk_dancer, drama).
+genero(celestina_burlesk_dancer, romance).
+nota(celestina_burlesk_dancer, 30).
+duracao(celestina_burlesk_dancer, 119).
+ano(celestina_burlesk_dancer, 2024).
 
-filme(batman:_o_cavaleiro_das_trevas).
-genero(batman:_o_cavaleiro_das_trevas, acao).
-genero(batman:_o_cavaleiro_das_trevas, crime).
-genero(batman:_o_cavaleiro_das_trevas, thriller).
-nota(batman:_o_cavaleiro_das_trevas, 85).
-duracao(batman:_o_cavaleiro_das_trevas, 152).
-ano(batman:_o_cavaleiro_das_trevas, 2008).
+filme(batman_o_cavaleiro_das_trevas).
+genero(batman_o_cavaleiro_das_trevas, acao).
+genero(batman_o_cavaleiro_das_trevas, crime).
+genero(batman_o_cavaleiro_das_trevas, thriller).
+nota(batman_o_cavaleiro_das_trevas, 85).
+duracao(batman_o_cavaleiro_das_trevas, 152).
+ano(batman_o_cavaleiro_das_trevas, 2008).
 
 filme(todo_mundo_em_panico).
 genero(todo_mundo_em_panico, comedia).
@@ -1067,21 +1067,21 @@ nota(bugonia, 74).
 duracao(bugonia, 118).
 ano(bugonia, 2025).
 
-filme(perseguicao:_a_estrada_da_morte).
-genero(perseguicao:_a_estrada_da_morte, misterio).
-genero(perseguicao:_a_estrada_da_morte, thriller).
-genero(perseguicao:_a_estrada_da_morte, drama).
-nota(perseguicao:_a_estrada_da_morte, 65).
-duracao(perseguicao:_a_estrada_da_morte, 97).
-ano(perseguicao:_a_estrada_da_morte, 2001).
+filme(perseguicao_a_estrada_da_morte).
+genero(perseguicao_a_estrada_da_morte, misterio).
+genero(perseguicao_a_estrada_da_morte, thriller).
+genero(perseguicao_a_estrada_da_morte, drama).
+nota(perseguicao_a_estrada_da_morte, 65).
+duracao(perseguicao_a_estrada_da_morte, 97).
+ano(perseguicao_a_estrada_da_morte, 2001).
 
-filme(o_senhor_dos_aneis:_o_retorno_do_rei).
-genero(o_senhor_dos_aneis:_o_retorno_do_rei, aventura).
-genero(o_senhor_dos_aneis:_o_retorno_do_rei, fantasia).
-genero(o_senhor_dos_aneis:_o_retorno_do_rei, acao).
-nota(o_senhor_dos_aneis:_o_retorno_do_rei, 85).
-duracao(o_senhor_dos_aneis:_o_retorno_do_rei, 202).
-ano(o_senhor_dos_aneis:_o_retorno_do_rei, 2003).
+filme(o_senhor_dos_aneis_o_retorno_do_rei).
+genero(o_senhor_dos_aneis_o_retorno_do_rei, aventura).
+genero(o_senhor_dos_aneis_o_retorno_do_rei, fantasia).
+genero(o_senhor_dos_aneis_o_retorno_do_rei, acao).
+nota(o_senhor_dos_aneis_o_retorno_do_rei, 85).
+duracao(o_senhor_dos_aneis_o_retorno_do_rei, 202).
+ano(o_senhor_dos_aneis_o_retorno_do_rei, 2003).
 
 filme(a_origem).
 genero(a_origem, acao).
@@ -1119,22 +1119,22 @@ nota(parasita, 85).
 duracao(parasita, 132).
 ano(parasita, 2019).
 
-filme(kaguya:_a_princesa_espacial).
-genero(kaguya:_a_princesa_espacial, animacao).
-genero(kaguya:_a_princesa_espacial, fantasia).
-genero(kaguya:_a_princesa_espacial, musica).
-genero(kaguya:_a_princesa_espacial, ficcao_cientifica).
-nota(kaguya:_a_princesa_espacial, 83).
-duracao(kaguya:_a_princesa_espacial, 141).
-ano(kaguya:_a_princesa_espacial, 2026).
+filme(kaguya_a_princesa_espacial).
+genero(kaguya_a_princesa_espacial, animacao).
+genero(kaguya_a_princesa_espacial, fantasia).
+genero(kaguya_a_princesa_espacial, musica).
+genero(kaguya_a_princesa_espacial, ficcao_cientifica).
+nota(kaguya_a_princesa_espacial, 83).
+duracao(kaguya_a_princesa_espacial, 141).
+ano(kaguya_a_princesa_espacial, 2026).
 
-filme(kantara_-_a_legend:_chapter_1).
-genero(kantara_-_a_legend:_chapter_1, acao).
-genero(kantara_-_a_legend:_chapter_1, drama).
-genero(kantara_-_a_legend:_chapter_1, fantasia).
-nota(kantara_-_a_legend:_chapter_1, 70).
-duracao(kantara_-_a_legend:_chapter_1, 165).
-ano(kantara_-_a_legend:_chapter_1, 2025).
+filme(kantara__a_legend_chapter_1).
+genero(kantara__a_legend_chapter_1, acao).
+genero(kantara__a_legend_chapter_1, drama).
+genero(kantara__a_legend_chapter_1, fantasia).
+nota(kantara__a_legend_chapter_1, 70).
+duracao(kantara__a_legend_chapter_1, 165).
+ano(kantara__a_legend_chapter_1, 2025).
 
 filme(o_alamo).
 genero(o_alamo, historia).
@@ -1144,13 +1144,13 @@ nota(o_alamo, 58).
 duracao(o_alamo, 137).
 ano(o_alamo, 2004).
 
-filme(missao:_impossivel_-_o_acerto_final).
-genero(missao:_impossivel_-_o_acerto_final, acao).
-genero(missao:_impossivel_-_o_acerto_final, thriller).
-genero(missao:_impossivel_-_o_acerto_final, aventura).
-nota(missao:_impossivel_-_o_acerto_final, 72).
-duracao(missao:_impossivel_-_o_acerto_final, 169).
-ano(missao:_impossivel_-_o_acerto_final, 2025).
+filme(missao_impossivel__o_acerto_final).
+genero(missao_impossivel__o_acerto_final, acao).
+genero(missao_impossivel__o_acerto_final, thriller).
+genero(missao_impossivel__o_acerto_final, aventura).
+nota(missao_impossivel__o_acerto_final, 72).
+duracao(missao_impossivel__o_acerto_final, 169).
+ano(missao_impossivel__o_acerto_final, 2025).
 
 filme(leberkasjunkie).
 genero(leberkasjunkie, comedia).
@@ -1194,34 +1194,34 @@ nota(cuci, 70).
 duracao(cuci, 101).
 ano(cuci, 2009).
 
-filme(share?).
-genero(share?, thriller).
-genero(share?, ficcao_cientifica).
-nota(share?, 55).
-duracao(share?, 80).
-ano(share?, 2023).
+filme(share).
+genero(share, thriller).
+genero(share, ficcao_cientifica).
+nota(share, 55).
+duracao(share, 80).
+ano(share, 2023).
 
-filme(mouseboat_-_massacre_no_barco).
-genero(mouseboat_-_massacre_no_barco, terror).
-nota(mouseboat_-_massacre_no_barco, 57).
-duracao(mouseboat_-_massacre_no_barco, 82).
-ano(mouseboat_-_massacre_no_barco, 2025).
+filme(mouseboat__massacre_no_barco).
+genero(mouseboat__massacre_no_barco, terror).
+nota(mouseboat__massacre_no_barco, 57).
+duracao(mouseboat__massacre_no_barco, 82).
+ano(mouseboat__massacre_no_barco, 2025).
 
-filme(socorro!).
-genero(socorro!, terror).
-genero(socorro!, thriller).
-genero(socorro!, comedia).
-nota(socorro!, 71).
-duracao(socorro!, 113).
-ano(socorro!, 2026).
+filme(socorro).
+genero(socorro, terror).
+genero(socorro, thriller).
+genero(socorro, comedia).
+nota(socorro, 71).
+duracao(socorro, 113).
+ano(socorro, 2026).
 
-filme(seven_-_os_sete_crimes_capitais).
-genero(seven_-_os_sete_crimes_capitais, crime).
-genero(seven_-_os_sete_crimes_capitais, misterio).
-genero(seven_-_os_sete_crimes_capitais, thriller).
-nota(seven_-_os_sete_crimes_capitais, 84).
-duracao(seven_-_os_sete_crimes_capitais, 127).
-ano(seven_-_os_sete_crimes_capitais, 1995).
+filme(seven__os_sete_crimes_capitais).
+genero(seven__os_sete_crimes_capitais, crime).
+genero(seven__os_sete_crimes_capitais, misterio).
+genero(seven__os_sete_crimes_capitais, thriller).
+nota(seven__os_sete_crimes_capitais, 84).
+duracao(seven__os_sete_crimes_capitais, 127).
+ano(seven__os_sete_crimes_capitais, 1995).
 
 filme(o_primata).
 genero(o_primata, terror).
@@ -1247,21 +1247,21 @@ nota(the_flood, 62).
 duracao(the_flood, 93).
 ano(the_flood, 2023).
 
-filme(pulp_fiction:_tempo_de_violencia).
-genero(pulp_fiction:_tempo_de_violencia, thriller).
-genero(pulp_fiction:_tempo_de_violencia, crime).
-genero(pulp_fiction:_tempo_de_violencia, comedia).
-nota(pulp_fiction:_tempo_de_violencia, 85).
-duracao(pulp_fiction:_tempo_de_violencia, 154).
-ano(pulp_fiction:_tempo_de_violencia, 1994).
+filme(pulp_fiction_tempo_de_violencia).
+genero(pulp_fiction_tempo_de_violencia, thriller).
+genero(pulp_fiction_tempo_de_violencia, crime).
+genero(pulp_fiction_tempo_de_violencia, comedia).
+nota(pulp_fiction_tempo_de_violencia, 85).
+duracao(pulp_fiction_tempo_de_violencia, 154).
+ano(pulp_fiction_tempo_de_violencia, 1994).
 
-filme(quarteto_fantastico:_primeiros_passos).
-genero(quarteto_fantastico:_primeiros_passos, ficcao_cientifica).
-genero(quarteto_fantastico:_primeiros_passos, aventura).
-genero(quarteto_fantastico:_primeiros_passos, acao).
-nota(quarteto_fantastico:_primeiros_passos, 70).
-duracao(quarteto_fantastico:_primeiros_passos, 115).
-ano(quarteto_fantastico:_primeiros_passos, 2025).
+filme(quarteto_fantastico_primeiros_passos).
+genero(quarteto_fantastico_primeiros_passos, ficcao_cientifica).
+genero(quarteto_fantastico_primeiros_passos, aventura).
+genero(quarteto_fantastico_primeiros_passos, acao).
+nota(quarteto_fantastico_primeiros_passos, 70).
+duracao(quarteto_fantastico_primeiros_passos, 115).
+ano(quarteto_fantastico_primeiros_passos, 2025).
 
 filme(um_filme_minecraft).
 genero(um_filme_minecraft, familia).
@@ -1291,13 +1291,13 @@ nota(shrek, 78).
 duracao(shrek, 90).
 ano(shrek, 2001).
 
-filme(deadpool_&_wolverine).
-genero(deadpool_&_wolverine, acao).
-genero(deadpool_&_wolverine, comedia).
-genero(deadpool_&_wolverine, ficcao_cientifica).
-nota(deadpool_&_wolverine, 76).
-duracao(deadpool_&_wolverine, 128).
-ano(deadpool_&_wolverine, 2024).
+filme(deadpool__wolverine).
+genero(deadpool__wolverine, acao).
+genero(deadpool__wolverine, comedia).
+genero(deadpool__wolverine, ficcao_cientifica).
+nota(deadpool__wolverine, 76).
+duracao(deadpool__wolverine, 128).
+ano(deadpool__wolverine, 2024).
 
 filme(passageiro_57).
 genero(passageiro_57, acao).
@@ -1323,13 +1323,13 @@ nota(feito_na_america, 69).
 duracao(feito_na_america, 115).
 ano(feito_na_america, 2017).
 
-filme(avatar:_o_caminho_da_agua).
-genero(avatar:_o_caminho_da_agua, acao).
-genero(avatar:_o_caminho_da_agua, aventura).
-genero(avatar:_o_caminho_da_agua, ficcao_cientifica).
-nota(avatar:_o_caminho_da_agua, 76).
-duracao(avatar:_o_caminho_da_agua, 192).
-ano(avatar:_o_caminho_da_agua, 2022).
+filme(avatar_o_caminho_da_agua).
+genero(avatar_o_caminho_da_agua, acao).
+genero(avatar_o_caminho_da_agua, aventura).
+genero(avatar_o_caminho_da_agua, ficcao_cientifica).
+nota(avatar_o_caminho_da_agua, 76).
+duracao(avatar_o_caminho_da_agua, 192).
+ano(avatar_o_caminho_da_agua, 2022).
 
 filme(oppenheimer).
 genero(oppenheimer, drama).
@@ -1354,12 +1354,12 @@ nota(resgate_implacavel, 67).
 duracao(resgate_implacavel, 116).
 ano(resgate_implacavel, 2025).
 
-filme(sisu:_estrada_da_vinganca).
-genero(sisu:_estrada_da_vinganca, acao).
-genero(sisu:_estrada_da_vinganca, guerra).
-nota(sisu:_estrada_da_vinganca, 73).
-duracao(sisu:_estrada_da_vinganca, 89).
-ano(sisu:_estrada_da_vinganca, 2025).
+filme(sisu_estrada_da_vinganca).
+genero(sisu_estrada_da_vinganca, acao).
+genero(sisu_estrada_da_vinganca, guerra).
+nota(sisu_estrada_da_vinganca, 73).
+duracao(sisu_estrada_da_vinganca, 89).
+ano(sisu_estrada_da_vinganca, 2025).
 
 filme(cacadores_do_fim_do_mundo).
 genero(cacadores_do_fim_do_mundo, acao).
@@ -1407,13 +1407,13 @@ nota(icefall, 64).
 duracao(icefall, 99).
 ano(icefall, 2025).
 
-filme(forrest_gump:_o_contador_de_historias).
-genero(forrest_gump:_o_contador_de_historias, comedia).
-genero(forrest_gump:_o_contador_de_historias, drama).
-genero(forrest_gump:_o_contador_de_historias, romance).
-nota(forrest_gump:_o_contador_de_historias, 85).
-duracao(forrest_gump:_o_contador_de_historias, 142).
-ano(forrest_gump:_o_contador_de_historias, 1994).
+filme(forrest_gump_o_contador_de_historias).
+genero(forrest_gump_o_contador_de_historias, comedia).
+genero(forrest_gump_o_contador_de_historias, drama).
+genero(forrest_gump_o_contador_de_historias, romance).
+nota(forrest_gump_o_contador_de_historias, 85).
+duracao(forrest_gump_o_contador_de_historias, 142).
+ano(forrest_gump_o_contador_de_historias, 1994).
 
 filme(ekis).
 genero(ekis, drama).
@@ -1421,13 +1421,13 @@ nota(ekis, 63).
 duracao(ekis, 107).
 ano(ekis, 2025).
 
-filme(homem-aranha:_de_volta_ao_lar).
-genero(homem-aranha:_de_volta_ao_lar, acao).
-genero(homem-aranha:_de_volta_ao_lar, aventura).
-genero(homem-aranha:_de_volta_ao_lar, ficcao_cientifica).
-nota(homem-aranha:_de_volta_ao_lar, 73).
-duracao(homem-aranha:_de_volta_ao_lar, 133).
-ano(homem-aranha:_de_volta_ao_lar, 2017).
+filme(homemaranha_de_volta_ao_lar).
+genero(homemaranha_de_volta_ao_lar, acao).
+genero(homemaranha_de_volta_ao_lar, aventura).
+genero(homemaranha_de_volta_ao_lar, ficcao_cientifica).
+nota(homemaranha_de_volta_ao_lar, 73).
+duracao(homemaranha_de_volta_ao_lar, 133).
+ano(homemaranha_de_volta_ao_lar, 2017).
 
 filme(os_caras_malvados_2).
 genero(os_caras_malvados_2, familia).
@@ -1455,14 +1455,14 @@ nota(clube_da_luta, 84).
 duracao(clube_da_luta, 139).
 ano(clube_da_luta, 1999).
 
-filme(ne_zha_2:_o_renascer_da_alma).
-genero(ne_zha_2:_o_renascer_da_alma, animacao).
-genero(ne_zha_2:_o_renascer_da_alma, fantasia).
-genero(ne_zha_2:_o_renascer_da_alma, aventura).
-genero(ne_zha_2:_o_renascer_da_alma, acao).
-nota(ne_zha_2:_o_renascer_da_alma, 81).
-duracao(ne_zha_2:_o_renascer_da_alma, 144).
-ano(ne_zha_2:_o_renascer_da_alma, 2025).
+filme(ne_zha_2_o_renascer_da_alma).
+genero(ne_zha_2_o_renascer_da_alma, animacao).
+genero(ne_zha_2_o_renascer_da_alma, fantasia).
+genero(ne_zha_2_o_renascer_da_alma, aventura).
+genero(ne_zha_2_o_renascer_da_alma, acao).
+nota(ne_zha_2_o_renascer_da_alma, 81).
+duracao(ne_zha_2_o_renascer_da_alma, 144).
+ano(ne_zha_2_o_renascer_da_alma, 2025).
 
 filme(a_hora_dos_valentes).
 genero(a_hora_dos_valentes, comedia).
@@ -1495,30 +1495,30 @@ nota(a_vinganca_dos_nerds, 65).
 duracao(a_vinganca_dos_nerds, 90).
 ano(a_vinganca_dos_nerds, 1984).
 
-filme(homem-aranha:_no_aranhaverso).
-genero(homem-aranha:_no_aranhaverso, animacao).
-genero(homem-aranha:_no_aranhaverso, acao).
-genero(homem-aranha:_no_aranhaverso, aventura).
-genero(homem-aranha:_no_aranhaverso, ficcao_cientifica).
-nota(homem-aranha:_no_aranhaverso, 84).
-duracao(homem-aranha:_no_aranhaverso, 117).
-ano(homem-aranha:_no_aranhaverso, 2018).
+filme(homemaranha_no_aranhaverso).
+genero(homemaranha_no_aranhaverso, animacao).
+genero(homemaranha_no_aranhaverso, acao).
+genero(homemaranha_no_aranhaverso, aventura).
+genero(homemaranha_no_aranhaverso, ficcao_cientifica).
+nota(homemaranha_no_aranhaverso, 84).
+duracao(homemaranha_no_aranhaverso, 117).
+ano(homemaranha_no_aranhaverso, 2018).
 
-filme(top_gun:_maverick).
-genero(top_gun:_maverick, acao).
-genero(top_gun:_maverick, drama).
-nota(top_gun:_maverick, 82).
-duracao(top_gun:_maverick, 131).
-ano(top_gun:_maverick, 2022).
+filme(top_gun_maverick).
+genero(top_gun_maverick, acao).
+genero(top_gun_maverick, drama).
+nota(top_gun_maverick, 82).
+duracao(top_gun_maverick, 131).
+ano(top_gun_maverick, 2022).
 
-filme(homem-aranha:_atraves_do_aranhaverso).
-genero(homem-aranha:_atraves_do_aranhaverso, animacao).
-genero(homem-aranha:_atraves_do_aranhaverso, acao).
-genero(homem-aranha:_atraves_do_aranhaverso, aventura).
-genero(homem-aranha:_atraves_do_aranhaverso, ficcao_cientifica).
-nota(homem-aranha:_atraves_do_aranhaverso, 83).
-duracao(homem-aranha:_atraves_do_aranhaverso, 140).
-ano(homem-aranha:_atraves_do_aranhaverso, 2023).
+filme(homemaranha_atraves_do_aranhaverso).
+genero(homemaranha_atraves_do_aranhaverso, animacao).
+genero(homemaranha_atraves_do_aranhaverso, acao).
+genero(homemaranha_atraves_do_aranhaverso, aventura).
+genero(homemaranha_atraves_do_aranhaverso, ficcao_cientifica).
+nota(homemaranha_atraves_do_aranhaverso, 83).
+duracao(homemaranha_atraves_do_aranhaverso, 140).
+ano(homemaranha_atraves_do_aranhaverso, 2023).
 
 filme(f_valentines_day).
 genero(f_valentines_day, romance).
@@ -1527,18 +1527,18 @@ nota(f_valentines_day, 63).
 duracao(f_valentines_day, 95).
 ano(f_valentines_day, 2026).
 
-filme(corta-fogo).
-genero(corta-fogo, thriller).
-genero(corta-fogo, drama).
-nota(corta-fogo, 62).
-duracao(corta-fogo, 107).
-ano(corta-fogo, 2026).
+filme(cortafogo).
+genero(cortafogo, thriller).
+genero(cortafogo, drama).
+nota(cortafogo, 62).
+duracao(cortafogo, 107).
+ano(cortafogo, 2026).
 
-filme(nossa_uniao,_muita_confusao).
-genero(nossa_uniao,_muita_confusao, comedia).
-nota(nossa_uniao,_muita_confusao, 56).
-duracao(nossa_uniao,_muita_confusao, 103).
-ano(nossa_uniao,_muita_confusao, 2010).
+filme(nossa_uniao_muita_confusao).
+genero(nossa_uniao_muita_confusao, comedia).
+nota(nossa_uniao_muita_confusao, 56).
+duracao(nossa_uniao_muita_confusao, 103).
+ano(nossa_uniao_muita_confusao, 2010).
 
 filme(mantis).
 genero(mantis, acao).
@@ -1548,13 +1548,13 @@ nota(mantis, 63).
 duracao(mantis, 113).
 ano(mantis, 2025).
 
-filme(star_wars:_os_ultimos_jedi).
-genero(star_wars:_os_ultimos_jedi, aventura).
-genero(star_wars:_os_ultimos_jedi, acao).
-genero(star_wars:_os_ultimos_jedi, ficcao_cientifica).
-nota(star_wars:_os_ultimos_jedi, 68).
-duracao(star_wars:_os_ultimos_jedi, 150).
-ano(star_wars:_os_ultimos_jedi, 2017).
+filme(star_wars_os_ultimos_jedi).
+genero(star_wars_os_ultimos_jedi, aventura).
+genero(star_wars_os_ultimos_jedi, acao).
+genero(star_wars_os_ultimos_jedi, ficcao_cientifica).
+nota(star_wars_os_ultimos_jedi, 68).
+duracao(star_wars_os_ultimos_jedi, 150).
+ano(star_wars_os_ultimos_jedi, 2017).
 
 filme(saving_sarah_cain).
 genero(saving_sarah_cain, drama).
@@ -1585,13 +1585,13 @@ nota(ele_nao_esta_tao_a_fim_de_voce, 66).
 duracao(ele_nao_esta_tao_a_fim_de_voce, 129).
 ano(ele_nao_esta_tao_a_fim_de_voce, 2009).
 
-filme(your_name.).
-genero(your_name., animacao).
-genero(your_name., romance).
-genero(your_name., drama).
-nota(your_name., 85).
-duracao(your_name., 106).
-ano(your_name., 2016).
+filme(your_name).
+genero(your_name, animacao).
+genero(your_name, romance).
+genero(your_name, drama).
+nota(your_name, 85).
+duracao(your_name, 106).
+ano(your_name, 2016).
 
 filme(murder_at_the_embassy).
 genero(murder_at_the_embassy, misterio).
@@ -1601,13 +1601,13 @@ nota(murder_at_the_embassy, 58).
 duracao(murder_at_the_embassy, 90).
 ano(murder_at_the_embassy, 2025).
 
-filme(lilo_&_stitch).
-genero(lilo_&_stitch, familia).
-genero(lilo_&_stitch, ficcao_cientifica).
-genero(lilo_&_stitch, comedia).
-nota(lilo_&_stitch, 72).
-duracao(lilo_&_stitch, 108).
-ano(lilo_&_stitch, 2025).
+filme(lilo__stitch).
+genero(lilo__stitch, familia).
+genero(lilo__stitch, ficcao_cientifica).
+genero(lilo__stitch, comedia).
+nota(lilo__stitch, 72).
+duracao(lilo__stitch, 108).
+ano(lilo__stitch, 2025).
 
 filme(the_feast).
 genero(the_feast, terror).
@@ -1616,13 +1616,13 @@ nota(the_feast, 57).
 duracao(the_feast, 93).
 ano(the_feast, 2021).
 
-filme(o_chefinho:_bonus_de_natal).
-genero(o_chefinho:_bonus_de_natal, animacao).
-genero(o_chefinho:_bonus_de_natal, familia).
-genero(o_chefinho:_bonus_de_natal, aventura).
-nota(o_chefinho:_bonus_de_natal, 67).
-duracao(o_chefinho:_bonus_de_natal, 45).
-ano(o_chefinho:_bonus_de_natal, 2022).
+filme(o_chefinho_bonus_de_natal).
+genero(o_chefinho_bonus_de_natal, animacao).
+genero(o_chefinho_bonus_de_natal, familia).
+genero(o_chefinho_bonus_de_natal, aventura).
+nota(o_chefinho_bonus_de_natal, 67).
+duracao(o_chefinho_bonus_de_natal, 45).
+ano(o_chefinho_bonus_de_natal, 2022).
 
 filme(13_dias_no_lago_da_morte).
 genero(13_dias_no_lago_da_morte, terror).
@@ -1655,13 +1655,13 @@ nota(portoes_do_inferno, 59).
 duracao(portoes_do_inferno, 91).
 ano(portoes_do_inferno, 2025).
 
-filme(homem-aranha:_longe_de_casa).
-genero(homem-aranha:_longe_de_casa, acao).
-genero(homem-aranha:_longe_de_casa, aventura).
-genero(homem-aranha:_longe_de_casa, ficcao_cientifica).
-nota(homem-aranha:_longe_de_casa, 74).
-duracao(homem-aranha:_longe_de_casa, 130).
-ano(homem-aranha:_longe_de_casa, 2019).
+filme(homemaranha_longe_de_casa).
+genero(homemaranha_longe_de_casa, acao).
+genero(homemaranha_longe_de_casa, aventura).
+genero(homemaranha_longe_de_casa, ficcao_cientifica).
+nota(homemaranha_longe_de_casa, 74).
+duracao(homemaranha_longe_de_casa, 130).
+ano(homemaranha_longe_de_casa, 2019).
 
 filme(divertida_mente_2).
 genero(divertida_mente_2, animacao).
@@ -1686,13 +1686,13 @@ nota(shahenshah, 63).
 duracao(shahenshah, 180).
 ano(shahenshah, 1988).
 
-filme(vingadores:_ultimato).
-genero(vingadores:_ultimato, aventura).
-genero(vingadores:_ultimato, ficcao_cientifica).
-genero(vingadores:_ultimato, acao).
-nota(vingadores:_ultimato, 82).
-duracao(vingadores:_ultimato, 181).
-ano(vingadores:_ultimato, 2019).
+filme(vingadores_ultimato).
+genero(vingadores_ultimato, aventura).
+genero(vingadores_ultimato, ficcao_cientifica).
+genero(vingadores_ultimato, acao).
+nota(vingadores_ultimato, 82).
+duracao(vingadores_ultimato, 181).
+ano(vingadores_ultimato, 2019).
 
 filme(de_volta_para_o_futuro).
 genero(de_volta_para_o_futuro, aventura).
@@ -1708,13 +1708,13 @@ nota(scope, 95).
 duracao(scope, 10).
 ano(scope, 2025).
 
-filme(whiplash:_em_busca_da_perfeicao).
-genero(whiplash:_em_busca_da_perfeicao, drama).
-genero(whiplash:_em_busca_da_perfeicao, musica).
-genero(whiplash:_em_busca_da_perfeicao, thriller).
-nota(whiplash:_em_busca_da_perfeicao, 84).
-duracao(whiplash:_em_busca_da_perfeicao, 107).
-ano(whiplash:_em_busca_da_perfeicao, 2014).
+filme(whiplash_em_busca_da_perfeicao).
+genero(whiplash_em_busca_da_perfeicao, drama).
+genero(whiplash_em_busca_da_perfeicao, musica).
+genero(whiplash_em_busca_da_perfeicao, thriller).
+nota(whiplash_em_busca_da_perfeicao, 84).
+duracao(whiplash_em_busca_da_perfeicao, 107).
+ano(whiplash_em_busca_da_perfeicao, 2014).
 
 filme(street_flow_3).
 genero(street_flow_3, drama).
@@ -1722,14 +1722,14 @@ nota(street_flow_3, 55).
 duracao(street_flow_3, 112).
 ano(street_flow_3, 2026).
 
-filme(toy_story:_um_mundo_de_aventuras).
-genero(toy_story:_um_mundo_de_aventuras, familia).
-genero(toy_story:_um_mundo_de_aventuras, comedia).
-genero(toy_story:_um_mundo_de_aventuras, animacao).
-genero(toy_story:_um_mundo_de_aventuras, aventura).
-nota(toy_story:_um_mundo_de_aventuras, 80).
-duracao(toy_story:_um_mundo_de_aventuras, 81).
-ano(toy_story:_um_mundo_de_aventuras, 1995).
+filme(toy_story_um_mundo_de_aventuras).
+genero(toy_story_um_mundo_de_aventuras, familia).
+genero(toy_story_um_mundo_de_aventuras, comedia).
+genero(toy_story_um_mundo_de_aventuras, animacao).
+genero(toy_story_um_mundo_de_aventuras, aventura).
+nota(toy_story_um_mundo_de_aventuras, 80).
+duracao(toy_story_um_mundo_de_aventuras, 81).
+ano(toy_story_um_mundo_de_aventuras, 1995).
 
 filme(i_swear).
 genero(i_swear, drama).
@@ -1747,18 +1747,18 @@ nota(moana_2, 70).
 duracao(moana_2, 100).
 ano(moana_2, 2024).
 
-filme(invocacao_do_mal_4:_o_ultimo_ritual).
-genero(invocacao_do_mal_4:_o_ultimo_ritual, terror).
-nota(invocacao_do_mal_4:_o_ultimo_ritual, 69).
-duracao(invocacao_do_mal_4:_o_ultimo_ritual, 136).
-ano(invocacao_do_mal_4:_o_ultimo_ritual, 2025).
+filme(invocacao_do_mal_4_o_ultimo_ritual).
+genero(invocacao_do_mal_4_o_ultimo_ritual, terror).
+nota(invocacao_do_mal_4_o_ultimo_ritual, 69).
+duracao(invocacao_do_mal_4_o_ultimo_ritual, 136).
+ano(invocacao_do_mal_4_o_ultimo_ritual, 2025).
 
-filme(premonicao_6:_lacos_de_sangue).
-genero(premonicao_6:_lacos_de_sangue, terror).
-genero(premonicao_6:_lacos_de_sangue, misterio).
-nota(premonicao_6:_lacos_de_sangue, 71).
-duracao(premonicao_6:_lacos_de_sangue, 110).
-ano(premonicao_6:_lacos_de_sangue, 2025).
+filme(premonicao_6_lacos_de_sangue).
+genero(premonicao_6_lacos_de_sangue, terror).
+genero(premonicao_6_lacos_de_sangue, misterio).
+nota(premonicao_6_lacos_de_sangue, 71).
+duracao(premonicao_6_lacos_de_sangue, 110).
+ano(premonicao_6_lacos_de_sangue, 2025).
 
 filme(love_lesson).
 genero(love_lesson, romance).
@@ -1776,15 +1776,15 @@ nota(a_espera_de_um_milagre, 85).
 duracao(a_espera_de_um_milagre, 189).
 ano(a_espera_de_um_milagre, 1999).
 
-filme(tom_e_jerry:_uma_aventura_no_museu).
-genero(tom_e_jerry:_uma_aventura_no_museu, animacao).
-genero(tom_e_jerry:_uma_aventura_no_museu, comedia).
-genero(tom_e_jerry:_uma_aventura_no_museu, familia).
-genero(tom_e_jerry:_uma_aventura_no_museu, fantasia).
-genero(tom_e_jerry:_uma_aventura_no_museu, aventura).
-nota(tom_e_jerry:_uma_aventura_no_museu, 58).
-duracao(tom_e_jerry:_uma_aventura_no_museu, 104).
-ano(tom_e_jerry:_uma_aventura_no_museu, 2025).
+filme(tom_e_jerry_uma_aventura_no_museu).
+genero(tom_e_jerry_uma_aventura_no_museu, animacao).
+genero(tom_e_jerry_uma_aventura_no_museu, comedia).
+genero(tom_e_jerry_uma_aventura_no_museu, familia).
+genero(tom_e_jerry_uma_aventura_no_museu, fantasia).
+genero(tom_e_jerry_uma_aventura_no_museu, aventura).
+nota(tom_e_jerry_uma_aventura_no_museu, 58).
+duracao(tom_e_jerry_uma_aventura_no_museu, 104).
+ano(tom_e_jerry_uma_aventura_no_museu, 2025).
 
 filme(os_bons_companheiros).
 genero(os_bons_companheiros, drama).
@@ -1860,14 +1860,14 @@ nota(a_lista_de_schindler, 86).
 duracao(a_lista_de_schindler, 195).
 ano(a_lista_de_schindler, 1993).
 
-filme(sonic_3:_o_filme).
-genero(sonic_3:_o_filme, acao).
-genero(sonic_3:_o_filme, ficcao_cientifica).
-genero(sonic_3:_o_filme, comedia).
-genero(sonic_3:_o_filme, familia).
-nota(sonic_3:_o_filme, 76).
-duracao(sonic_3:_o_filme, 110).
-ano(sonic_3:_o_filme, 2024).
+filme(sonic_3_o_filme).
+genero(sonic_3_o_filme, acao).
+genero(sonic_3_o_filme, ficcao_cientifica).
+genero(sonic_3_o_filme, comedia).
+genero(sonic_3_o_filme, familia).
+nota(sonic_3_o_filme, 76).
+duracao(sonic_3_o_filme, 110).
+ano(sonic_3_o_filme, 2024).
 
 filme(robo_selvagem).
 genero(robo_selvagem, animacao).
@@ -1906,12 +1906,12 @@ nota(homem_de_ferro_2, 69).
 duracao(homem_de_ferro_2, 124).
 ano(homem_de_ferro_2, 2010).
 
-filme(o_poderoso_chefao:_parte_ii).
-genero(o_poderoso_chefao:_parte_ii, drama).
-genero(o_poderoso_chefao:_parte_ii, crime).
-nota(o_poderoso_chefao:_parte_ii, 86).
-duracao(o_poderoso_chefao:_parte_ii, 202).
-ano(o_poderoso_chefao:_parte_ii, 1974).
+filme(o_poderoso_chefao_parte_ii).
+genero(o_poderoso_chefao_parte_ii, drama).
+genero(o_poderoso_chefao_parte_ii, crime).
+nota(o_poderoso_chefao_parte_ii, 86).
+duracao(o_poderoso_chefao_parte_ii, 202).
+ano(o_poderoso_chefao_parte_ii, 1974).
 
 filme(em_um_piscar_de_olhos).
 genero(em_um_piscar_de_olhos, ficcao_cientifica).
@@ -1945,13 +1945,13 @@ nota(o_rei_leao, 83).
 duracao(o_rei_leao, 89).
 ano(o_rei_leao, 1994).
 
-filme(corra_que_a_policia_vem_ai!).
-genero(corra_que_a_policia_vem_ai!, acao).
-genero(corra_que_a_policia_vem_ai!, comedia).
-genero(corra_que_a_policia_vem_ai!, crime).
-nota(corra_que_a_policia_vem_ai!, 64).
-duracao(corra_que_a_policia_vem_ai!, 85).
-ano(corra_que_a_policia_vem_ai!, 2025).
+filme(corra_que_a_policia_vem_ai).
+genero(corra_que_a_policia_vem_ai, acao).
+genero(corra_que_a_policia_vem_ai, comedia).
+genero(corra_que_a_policia_vem_ai, crime).
+nota(corra_que_a_policia_vem_ai, 64).
+duracao(corra_que_a_policia_vem_ai, 85).
+ano(corra_que_a_policia_vem_ai, 2025).
 
 filme(divertida_mente).
 genero(divertida_mente, animacao).
@@ -1971,13 +1971,13 @@ nota(o_profissional, 83).
 duracao(o_profissional, 111).
 ano(o_profissional, 1994).
 
-filme(velozes_&_furiosos_10).
-genero(velozes_&_furiosos_10, acao).
-genero(velozes_&_furiosos_10, crime).
-genero(velozes_&_furiosos_10, thriller).
-nota(velozes_&_furiosos_10, 70).
-duracao(velozes_&_furiosos_10, 142).
-ano(velozes_&_furiosos_10, 2023).
+filme(velozes__furiosos_10).
+genero(velozes__furiosos_10, acao).
+genero(velozes__furiosos_10, crime).
+genero(velozes__furiosos_10, thriller).
+nota(velozes__furiosos_10, 70).
+duracao(velozes__furiosos_10, 142).
+ano(velozes__furiosos_10, 2023).
 
 filme(the_king_of_snipers).
 genero(the_king_of_snipers, acao).
@@ -1988,14 +1988,14 @@ nota(the_king_of_snipers, 56).
 duracao(the_king_of_snipers, 98).
 ano(the_king_of_snipers, 2023).
 
-filme(solo_leveling_-segundo_despertar-).
-genero(solo_leveling_-segundo_despertar-, acao).
-genero(solo_leveling_-segundo_despertar-, aventura).
-genero(solo_leveling_-segundo_despertar-, fantasia).
-genero(solo_leveling_-segundo_despertar-, animacao).
-nota(solo_leveling_-segundo_despertar-, 71).
-duracao(solo_leveling_-segundo_despertar-, 116).
-ano(solo_leveling_-segundo_despertar-, 2024).
+filme(solo_leveling_segundo_despertar).
+genero(solo_leveling_segundo_despertar, acao).
+genero(solo_leveling_segundo_despertar, aventura).
+genero(solo_leveling_segundo_despertar, fantasia).
+genero(solo_leveling_segundo_despertar, animacao).
+nota(solo_leveling_segundo_despertar, 71).
+duracao(solo_leveling_segundo_despertar, 116).
+ano(solo_leveling_segundo_despertar, 2024).
 
 filme(crepusculo).
 genero(crepusculo, fantasia).
@@ -2039,13 +2039,13 @@ nota(guerra_nas_estrelas, 82).
 duracao(guerra_nas_estrelas, 121).
 ano(guerra_nas_estrelas, 1977).
 
-filme(tee_yai:_nascido_para_o_mal).
-genero(tee_yai:_nascido_para_o_mal, crime).
-genero(tee_yai:_nascido_para_o_mal, acao).
-genero(tee_yai:_nascido_para_o_mal, drama).
-nota(tee_yai:_nascido_para_o_mal, 53).
-duracao(tee_yai:_nascido_para_o_mal, 117).
-ano(tee_yai:_nascido_para_o_mal, 2025).
+filme(tee_yai_nascido_para_o_mal).
+genero(tee_yai_nascido_para_o_mal, crime).
+genero(tee_yai_nascido_para_o_mal, acao).
+genero(tee_yai_nascido_para_o_mal, drama).
+nota(tee_yai_nascido_para_o_mal, 53).
+duracao(tee_yai_nascido_para_o_mal, 117).
+ano(tee_yai_nascido_para_o_mal, 2025).
 
 filme(eva).
 genero(eva, drama).
@@ -2054,12 +2054,12 @@ nota(eva, 51).
 duracao(eva, 95).
 ano(eva, 2021).
 
-filme(os_estranhos:_capitulo_final).
-genero(os_estranhos:_capitulo_final, terror).
-genero(os_estranhos:_capitulo_final, thriller).
-nota(os_estranhos:_capitulo_final, 55).
-duracao(os_estranhos:_capitulo_final, 91).
-ano(os_estranhos:_capitulo_final, 2026).
+filme(os_estranhos_capitulo_final).
+genero(os_estranhos_capitulo_final, terror).
+genero(os_estranhos_capitulo_final, thriller).
+nota(os_estranhos_capitulo_final, 55).
+duracao(os_estranhos_capitulo_final, 91).
+ano(os_estranhos_capitulo_final, 2026).
 
 filme(the_catcher).
 genero(the_catcher, crime).
@@ -2069,13 +2069,13 @@ nota(the_catcher, 60).
 duracao(the_catcher, 100).
 ano(the_catcher, 1972).
 
-filme(wicked:_parte_ii).
-genero(wicked:_parte_ii, fantasia).
-genero(wicked:_parte_ii, aventura).
-genero(wicked:_parte_ii, romance).
-nota(wicked:_parte_ii, 66).
-duracao(wicked:_parte_ii, 138).
-ano(wicked:_parte_ii, 2025).
+filme(wicked_parte_ii).
+genero(wicked_parte_ii, fantasia).
+genero(wicked_parte_ii, aventura).
+genero(wicked_parte_ii, romance).
+nota(wicked_parte_ii, 66).
+duracao(wicked_parte_ii, 138).
+ano(wicked_parte_ii, 2025).
 
 filme(o_testamento_de_ann_lee).
 genero(o_testamento_de_ann_lee, historia).
@@ -2094,22 +2094,22 @@ nota(vincent_tem_de_morrer, 62).
 duracao(vincent_tem_de_morrer, 108).
 ano(vincent_tem_de_morrer, 2023).
 
-filme(o_senhor_dos_aneis:_as_duas_torres).
-genero(o_senhor_dos_aneis:_as_duas_torres, aventura).
-genero(o_senhor_dos_aneis:_as_duas_torres, fantasia).
-genero(o_senhor_dos_aneis:_as_duas_torres, acao).
-nota(o_senhor_dos_aneis:_as_duas_torres, 84).
-duracao(o_senhor_dos_aneis:_as_duas_torres, 180).
-ano(o_senhor_dos_aneis:_as_duas_torres, 2002).
+filme(o_senhor_dos_aneis_as_duas_torres).
+genero(o_senhor_dos_aneis_as_duas_torres, aventura).
+genero(o_senhor_dos_aneis_as_duas_torres, fantasia).
+genero(o_senhor_dos_aneis_as_duas_torres, acao).
+nota(o_senhor_dos_aneis_as_duas_torres, 84).
+duracao(o_senhor_dos_aneis_as_duas_torres, 180).
+ano(o_senhor_dos_aneis_as_duas_torres, 2002).
 
-filme(viva:_a_vida_e_uma_festa).
-genero(viva:_a_vida_e_uma_festa, familia).
-genero(viva:_a_vida_e_uma_festa, animacao).
-genero(viva:_a_vida_e_uma_festa, musica).
-genero(viva:_a_vida_e_uma_festa, aventura).
-nota(viva:_a_vida_e_uma_festa, 82).
-duracao(viva:_a_vida_e_uma_festa, 109).
-ano(viva:_a_vida_e_uma_festa, 2017).
+filme(viva_a_vida_e_uma_festa).
+genero(viva_a_vida_e_uma_festa, familia).
+genero(viva_a_vida_e_uma_festa, animacao).
+genero(viva_a_vida_e_uma_festa, musica).
+genero(viva_a_vida_e_uma_festa, aventura).
+nota(viva_a_vida_e_uma_festa, 82).
+duracao(viva_a_vida_e_uma_festa, 109).
+ano(viva_a_vida_e_uma_festa, 2017).
 
 filme(de_ferias_com_voce).
 genero(de_ferias_com_voce, romance).
@@ -2178,13 +2178,13 @@ nota(deadpool, 76).
 duracao(deadpool, 107).
 ano(deadpool, 2016).
 
-filme(piratas_do_caribe:_a_maldicao_do_perola_negra).
-genero(piratas_do_caribe:_a_maldicao_do_perola_negra, aventura).
-genero(piratas_do_caribe:_a_maldicao_do_perola_negra, fantasia).
-genero(piratas_do_caribe:_a_maldicao_do_perola_negra, acao).
-nota(piratas_do_caribe:_a_maldicao_do_perola_negra, 78).
-duracao(piratas_do_caribe:_a_maldicao_do_perola_negra, 143).
-ano(piratas_do_caribe:_a_maldicao_do_perola_negra, 2003).
+filme(piratas_do_caribe_a_maldicao_do_perola_negra).
+genero(piratas_do_caribe_a_maldicao_do_perola_negra, aventura).
+genero(piratas_do_caribe_a_maldicao_do_perola_negra, fantasia).
+genero(piratas_do_caribe_a_maldicao_do_perola_negra, acao).
+nota(piratas_do_caribe_a_maldicao_do_perola_negra, 78).
+duracao(piratas_do_caribe_a_maldicao_do_perola_negra, 143).
+ano(piratas_do_caribe_a_maldicao_do_perola_negra, 2003).
 
 filme(prisioneiro_de_guerra).
 genero(prisioneiro_de_guerra, acao).
@@ -2202,14 +2202,14 @@ nota(capitao_harlock_pirata_do_espaco, 66).
 duracao(capitao_harlock_pirata_do_espaco, 115).
 ano(capitao_harlock_pirata_do_espaco, 2013).
 
-filme(frozen:_uma_aventura_congelante).
-genero(frozen:_uma_aventura_congelante, animacao).
-genero(frozen:_uma_aventura_congelante, familia).
-genero(frozen:_uma_aventura_congelante, aventura).
-genero(frozen:_uma_aventura_congelante, fantasia).
-nota(frozen:_uma_aventura_congelante, 72).
-duracao(frozen:_uma_aventura_congelante, 102).
-ano(frozen:_uma_aventura_congelante, 2013).
+filme(frozen_uma_aventura_congelante).
+genero(frozen_uma_aventura_congelante, animacao).
+genero(frozen_uma_aventura_congelante, familia).
+genero(frozen_uma_aventura_congelante, aventura).
+genero(frozen_uma_aventura_congelante, fantasia).
+nota(frozen_uma_aventura_congelante, 72).
+duracao(frozen_uma_aventura_congelante, 102).
+ano(frozen_uma_aventura_congelante, 2013).
 
 filme(garota_exemplar).
 genero(garota_exemplar, misterio).
@@ -2227,13 +2227,13 @@ nota(o_castelo_animado, 84).
 duracao(o_castelo_animado, 120).
 ano(o_castelo_animado, 2004).
 
-filme(homem-aranha_3).
-genero(homem-aranha_3, acao).
-genero(homem-aranha_3, aventura).
-genero(homem-aranha_3, ficcao_cientifica).
-nota(homem-aranha_3, 65).
-duracao(homem-aranha_3, 139).
-ano(homem-aranha_3, 2007).
+filme(homemaranha_3).
+genero(homemaranha_3, acao).
+genero(homemaranha_3, aventura).
+genero(homemaranha_3, ficcao_cientifica).
+nota(homemaranha_3, 65).
+duracao(homemaranha_3, 139).
+ano(homemaranha_3, 2007).
 
 filme(a_felicidade_nao_se_compra).
 genero(a_felicidade_nao_se_compra, drama).
@@ -2251,13 +2251,13 @@ nota(o_exterminador_do_futuro, 77).
 duracao(o_exterminador_do_futuro, 107).
 ano(o_exterminador_do_futuro, 1984).
 
-filme(venom:_a_ultima_rodada).
-genero(venom:_a_ultima_rodada, acao).
-genero(venom:_a_ultima_rodada, ficcao_cientifica).
-genero(venom:_a_ultima_rodada, aventura).
-nota(venom:_a_ultima_rodada, 67).
-duracao(venom:_a_ultima_rodada, 110).
-ano(venom:_a_ultima_rodada, 2024).
+filme(venom_a_ultima_rodada).
+genero(venom_a_ultima_rodada, acao).
+genero(venom_a_ultima_rodada, ficcao_cientifica).
+genero(venom_a_ultima_rodada, aventura).
+nota(venom_a_ultima_rodada, 67).
+duracao(venom_a_ultima_rodada, 110).
+ano(venom_a_ultima_rodada, 2024).
 
 filme(o_ultimo_dos_valentoes).
 genero(o_ultimo_dos_valentoes, crime).
@@ -2281,13 +2281,13 @@ nota(prova_final, 66).
 duracao(prova_final, 104).
 ano(prova_final, 1998).
 
-filme(monstros_s.a.).
-genero(monstros_s.a., animacao).
-genero(monstros_s.a., comedia).
-genero(monstros_s.a., familia).
-nota(monstros_s.a., 78).
-duracao(monstros_s.a., 92).
-ano(monstros_s.a., 2001).
+filme(monstros_sa).
+genero(monstros_sa, animacao).
+genero(monstros_sa, comedia).
+genero(monstros_sa, familia).
+nota(monstros_sa, 78).
+duracao(monstros_sa, 92).
+ano(monstros_sa, 2001).
 
 filme(estranhos_visitantes).
 genero(estranhos_visitantes, drama).
@@ -2328,13 +2328,13 @@ nota(abencoe_seus_pequeninos_coracoes, 62).
 duracao(abencoe_seus_pequeninos_coracoes, 80).
 ano(abencoe_seus_pequeninos_coracoes, 1984).
 
-filme(o_hobbit:_a_batalha_dos_cinco_exercitos).
-genero(o_hobbit:_a_batalha_dos_cinco_exercitos, acao).
-genero(o_hobbit:_a_batalha_dos_cinco_exercitos, aventura).
-genero(o_hobbit:_a_batalha_dos_cinco_exercitos, fantasia).
-nota(o_hobbit:_a_batalha_dos_cinco_exercitos, 73).
-duracao(o_hobbit:_a_batalha_dos_cinco_exercitos, 165).
-ano(o_hobbit:_a_batalha_dos_cinco_exercitos, 2014).
+filme(o_hobbit_a_batalha_dos_cinco_exercitos).
+genero(o_hobbit_a_batalha_dos_cinco_exercitos, acao).
+genero(o_hobbit_a_batalha_dos_cinco_exercitos, aventura).
+genero(o_hobbit_a_batalha_dos_cinco_exercitos, fantasia).
+nota(o_hobbit_a_batalha_dos_cinco_exercitos, 73).
+duracao(o_hobbit_a_batalha_dos_cinco_exercitos, 165).
+ano(o_hobbit_a_batalha_dos_cinco_exercitos, 2014).
 
 filme(o_lobo_de_wall_street).
 genero(o_lobo_de_wall_street, crime).
@@ -2358,13 +2358,13 @@ nota(panico_vi, 70).
 duracao(panico_vi, 122).
 ano(panico_vi, 2023).
 
-filme(it:_a_coisa).
-genero(it:_a_coisa, terror).
-genero(it:_a_coisa, thriller).
-genero(it:_a_coisa, drama).
-nota(it:_a_coisa, 72).
-duracao(it:_a_coisa, 134).
-ano(it:_a_coisa, 2017).
+filme(it_a_coisa).
+genero(it_a_coisa, terror).
+genero(it_a_coisa, thriller).
+genero(it_a_coisa, drama).
+nota(it_a_coisa, 72).
+duracao(it_a_coisa, 134).
+ano(it_a_coisa, 2017).
 
 filme(anonimo).
 genero(anonimo, acao).
@@ -2373,21 +2373,21 @@ nota(anonimo, 79).
 duracao(anonimo, 92).
 ano(anonimo, 2021).
 
-filme(m3gan_2.0).
-genero(m3gan_2.0, acao).
-genero(m3gan_2.0, ficcao_cientifica).
-genero(m3gan_2.0, thriller).
-nota(m3gan_2.0, 73).
-duracao(m3gan_2.0, 119).
-ano(m3gan_2.0, 2025).
+filme(m3gan_20).
+genero(m3gan_20, acao).
+genero(m3gan_20, ficcao_cientifica).
+genero(m3gan_20, thriller).
+nota(m3gan_20, 73).
+duracao(m3gan_20, 119).
+ano(m3gan_20, 2025).
 
-filme(hallow_road:_caminho_sem_volta).
-genero(hallow_road:_caminho_sem_volta, misterio).
-genero(hallow_road:_caminho_sem_volta, thriller).
-genero(hallow_road:_caminho_sem_volta, terror).
-nota(hallow_road:_caminho_sem_volta, 62).
-duracao(hallow_road:_caminho_sem_volta, 80).
-ano(hallow_road:_caminho_sem_volta, 2025).
+filme(hallow_road_caminho_sem_volta).
+genero(hallow_road_caminho_sem_volta, misterio).
+genero(hallow_road_caminho_sem_volta, thriller).
+genero(hallow_road_caminho_sem_volta, terror).
+nota(hallow_road_caminho_sem_volta, 62).
+duracao(hallow_road_caminho_sem_volta, 80).
+ano(hallow_road_caminho_sem_volta, 2025).
 
 filme(casamento_sangrento).
 genero(casamento_sangrento, terror).
@@ -2396,14 +2396,14 @@ nota(casamento_sangrento, 70).
 duracao(casamento_sangrento, 95).
 ano(casamento_sangrento, 2019).
 
-filme(up:_altas_aventuras).
-genero(up:_altas_aventuras, animacao).
-genero(up:_altas_aventuras, comedia).
-genero(up:_altas_aventuras, familia).
-genero(up:_altas_aventuras, aventura).
-nota(up:_altas_aventuras, 80).
-duracao(up:_altas_aventuras, 96).
-ano(up:_altas_aventuras, 2009).
+filme(up_altas_aventuras).
+genero(up_altas_aventuras, animacao).
+genero(up_altas_aventuras, comedia).
+genero(up_altas_aventuras, familia).
+genero(up_altas_aventuras, aventura).
+nota(up_altas_aventuras, 80).
+duracao(up_altas_aventuras, 96).
+ano(up_altas_aventuras, 2009).
 
 filme(coracoes_de_ferro).
 genero(coracoes_de_ferro, guerra).
@@ -2419,12 +2419,12 @@ nota(perils_of_the_jungle, 30).
 duracao(perils_of_the_jungle, 63).
 ano(perils_of_the_jungle, 1953).
 
-filme(alien:_o_oitavo_passageiro).
-genero(alien:_o_oitavo_passageiro, terror).
-genero(alien:_o_oitavo_passageiro, ficcao_cientifica).
-nota(alien:_o_oitavo_passageiro, 82).
-duracao(alien:_o_oitavo_passageiro, 117).
-ano(alien:_o_oitavo_passageiro, 1979).
+filme(alien_o_oitavo_passageiro).
+genero(alien_o_oitavo_passageiro, terror).
+genero(alien_o_oitavo_passageiro, ficcao_cientifica).
+nota(alien_o_oitavo_passageiro, 82).
+duracao(alien_o_oitavo_passageiro, 117).
+ano(alien_o_oitavo_passageiro, 1979).
 
 filme(wicked).
 genero(wicked, drama).
@@ -2434,13 +2434,13 @@ nota(wicked, 69).
 duracao(wicked, 161).
 ano(wicked, 2024).
 
-filme(thunderbolts*).
-genero(thunderbolts*, acao).
-genero(thunderbolts*, ficcao_cientifica).
-genero(thunderbolts*, aventura).
-nota(thunderbolts*, 73).
-duracao(thunderbolts*, 126).
-ano(thunderbolts*, 2025).
+filme(thunderbolts).
+genero(thunderbolts, acao).
+genero(thunderbolts, ficcao_cientifica).
+genero(thunderbolts, aventura).
+nota(thunderbolts, 73).
+duracao(thunderbolts, 126).
+ano(thunderbolts, 2025).
 
 filme(title_fight).
 genero(title_fight, documentario).
@@ -2480,21 +2480,21 @@ nota(o_bad_boy_e_eu, 61).
 duracao(o_bad_boy_e_eu, 99).
 ano(o_bad_boy_e_eu, 2025).
 
-filme(vingadores:_era_de_ultron).
-genero(vingadores:_era_de_ultron, acao).
-genero(vingadores:_era_de_ultron, aventura).
-genero(vingadores:_era_de_ultron, ficcao_cientifica).
-nota(vingadores:_era_de_ultron, 73).
-duracao(vingadores:_era_de_ultron, 141).
-ano(vingadores:_era_de_ultron, 2015).
+filme(vingadores_era_de_ultron).
+genero(vingadores_era_de_ultron, acao).
+genero(vingadores_era_de_ultron, aventura).
+genero(vingadores_era_de_ultron, ficcao_cientifica).
+nota(vingadores_era_de_ultron, 73).
+duracao(vingadores_era_de_ultron, 141).
+ano(vingadores_era_de_ultron, 2015).
 
-filme(o_hobbit:_uma_jornada_inesperada).
-genero(o_hobbit:_uma_jornada_inesperada, aventura).
-genero(o_hobbit:_uma_jornada_inesperada, fantasia).
-genero(o_hobbit:_uma_jornada_inesperada, acao).
-nota(o_hobbit:_uma_jornada_inesperada, 74).
-duracao(o_hobbit:_uma_jornada_inesperada, 183).
-ano(o_hobbit:_uma_jornada_inesperada, 2012).
+filme(o_hobbit_uma_jornada_inesperada).
+genero(o_hobbit_uma_jornada_inesperada, aventura).
+genero(o_hobbit_uma_jornada_inesperada, fantasia).
+genero(o_hobbit_uma_jornada_inesperada, acao).
+nota(o_hobbit_uma_jornada_inesperada, 74).
+duracao(o_hobbit_uma_jornada_inesperada, 183).
+ano(o_hobbit_uma_jornada_inesperada, 2012).
 
 filme(japanese_mom).
 genero(japanese_mom, romance).
@@ -2575,11 +2575,11 @@ nota(eternidade, 70).
 duracao(eternidade, 112).
 ano(eternidade, 2025).
 
-filme(se_beber,_nao_case!).
-genero(se_beber,_nao_case!, comedia).
-nota(se_beber,_nao_case!, 73).
-duracao(se_beber,_nao_case!, 99).
-ano(se_beber,_nao_case!, 2009).
+filme(se_beber_nao_case).
+genero(se_beber_nao_case, comedia).
+nota(se_beber_nao_case, 73).
+duracao(se_beber_nao_case, 99).
+ano(se_beber_nao_case, 2009).
 
 filme(harry_potter_e_o_calice_de_fogo).
 genero(harry_potter_e_o_calice_de_fogo, aventura).
@@ -2588,22 +2588,22 @@ nota(harry_potter_e_o_calice_de_fogo, 78).
 duracao(harry_potter_e_o_calice_de_fogo, 157).
 ano(harry_potter_e_o_calice_de_fogo, 2005).
 
-filme(batman:_o_cavaleiro_das_trevas_ressurge).
-genero(batman:_o_cavaleiro_das_trevas_ressurge, acao).
-genero(batman:_o_cavaleiro_das_trevas_ressurge, crime).
-genero(batman:_o_cavaleiro_das_trevas_ressurge, drama).
-genero(batman:_o_cavaleiro_das_trevas_ressurge, thriller).
-nota(batman:_o_cavaleiro_das_trevas_ressurge, 78).
-duracao(batman:_o_cavaleiro_das_trevas_ressurge, 165).
-ano(batman:_o_cavaleiro_das_trevas_ressurge, 2012).
+filme(batman_o_cavaleiro_das_trevas_ressurge).
+genero(batman_o_cavaleiro_das_trevas_ressurge, acao).
+genero(batman_o_cavaleiro_das_trevas_ressurge, crime).
+genero(batman_o_cavaleiro_das_trevas_ressurge, drama).
+genero(batman_o_cavaleiro_das_trevas_ressurge, thriller).
+nota(batman_o_cavaleiro_das_trevas_ressurge, 78).
+duracao(batman_o_cavaleiro_das_trevas_ressurge, 165).
+ano(batman_o_cavaleiro_das_trevas_ressurge, 2012).
 
-filme(o_espetacular_homem-aranha).
-genero(o_espetacular_homem-aranha, acao).
-genero(o_espetacular_homem-aranha, aventura).
-genero(o_espetacular_homem-aranha, ficcao_cientifica).
-nota(o_espetacular_homem-aranha, 67).
-duracao(o_espetacular_homem-aranha, 136).
-ano(o_espetacular_homem-aranha, 2012).
+filme(o_espetacular_homemaranha).
+genero(o_espetacular_homemaranha, acao).
+genero(o_espetacular_homemaranha, aventura).
+genero(o_espetacular_homemaranha, ficcao_cientifica).
+nota(o_espetacular_homemaranha, 67).
+duracao(o_espetacular_homemaranha, 136).
+ano(o_espetacular_homemaranha, 2012).
 
 filme(gladiador).
 genero(gladiador, acao).
@@ -2613,12 +2613,12 @@ nota(gladiador, 82).
 duracao(gladiador, 155).
 ano(gladiador, 2000).
 
-filme(charcot:_secret_poles).
-genero(charcot:_secret_poles, documentario).
-genero(charcot:_secret_poles, historia).
-nota(charcot:_secret_poles, 79).
-duracao(charcot:_secret_poles, 87).
-ano(charcot:_secret_poles, 2016).
+filme(charcot_secret_poles).
+genero(charcot_secret_poles, documentario).
+genero(charcot_secret_poles, historia).
+nota(charcot_secret_poles, 79).
+duracao(charcot_secret_poles, 87).
+ano(charcot_secret_poles, 2016).
 
 filme(cinquenta_tons_de_liberdade).
 genero(cinquenta_tons_de_liberdade, drama).
@@ -2627,12 +2627,12 @@ nota(cinquenta_tons_de_liberdade, 67).
 duracao(cinquenta_tons_de_liberdade, 101).
 ano(cinquenta_tons_de_liberdade, 2018).
 
-filme(the_cursed:_insatiable_desires).
-genero(the_cursed:_insatiable_desires, terror).
-genero(the_cursed:_insatiable_desires, thriller).
-nota(the_cursed:_insatiable_desires, 65).
-duracao(the_cursed:_insatiable_desires, 97).
-ano(the_cursed:_insatiable_desires, 2025).
+filme(the_cursed_insatiable_desires).
+genero(the_cursed_insatiable_desires, terror).
+genero(the_cursed_insatiable_desires, thriller).
+nota(the_cursed_insatiable_desires, 65).
+duracao(the_cursed_insatiable_desires, 97).
+ano(the_cursed_insatiable_desires, 2025).
 
 filme(procurando_nemo).
 genero(procurando_nemo, animacao).
@@ -2642,13 +2642,13 @@ nota(procurando_nemo, 78).
 duracao(procurando_nemo, 100).
 ano(procurando_nemo, 2003).
 
-filme(missao_resgate:_vinganca).
-genero(missao_resgate:_vinganca, acao).
-genero(missao_resgate:_vinganca, thriller).
-genero(missao_resgate:_vinganca, drama).
-nota(missao_resgate:_vinganca, 62).
-duracao(missao_resgate:_vinganca, 113).
-ano(missao_resgate:_vinganca, 2025).
+filme(missao_resgate_vinganca).
+genero(missao_resgate_vinganca, acao).
+genero(missao_resgate_vinganca, thriller).
+genero(missao_resgate_vinganca, drama).
+nota(missao_resgate_vinganca, 62).
+duracao(missao_resgate_vinganca, 113).
+ano(missao_resgate_vinganca, 2025).
 
 filme(the_torture_club).
 genero(the_torture_club, drama).
@@ -2667,13 +2667,13 @@ nota(elio, 69).
 duracao(elio, 100).
 ano(elio, 2025).
 
-filme(a_serbian_film_-_terror_sem_limites).
-genero(a_serbian_film_-_terror_sem_limites, crime).
-genero(a_serbian_film_-_terror_sem_limites, terror).
-genero(a_serbian_film_-_terror_sem_limites, thriller).
-nota(a_serbian_film_-_terror_sem_limites, 54).
-duracao(a_serbian_film_-_terror_sem_limites, 104).
-ano(a_serbian_film_-_terror_sem_limites, 2010).
+filme(a_serbian_film__terror_sem_limites).
+genero(a_serbian_film__terror_sem_limites, crime).
+genero(a_serbian_film__terror_sem_limites, terror).
+genero(a_serbian_film__terror_sem_limites, thriller).
+nota(a_serbian_film__terror_sem_limites, 54).
+duracao(a_serbian_film__terror_sem_limites, 104).
+ano(a_serbian_film__terror_sem_limites, 2010).
 
 filme(o_bom_bandido).
 genero(o_bom_bandido, crime).
@@ -2713,15 +2713,15 @@ nota(diario_de_uma_paixao, 79).
 duracao(diario_de_uma_paixao, 123).
 ano(diario_de_uma_paixao, 2004).
 
-filme(orca:_a_baleia_assassina).
-genero(orca:_a_baleia_assassina, thriller).
-genero(orca:_a_baleia_assassina, terror).
-genero(orca:_a_baleia_assassina, acao).
-genero(orca:_a_baleia_assassina, misterio).
-genero(orca:_a_baleia_assassina, ficcao_cientifica).
-nota(orca:_a_baleia_assassina, 56).
-duracao(orca:_a_baleia_assassina, 89).
-ano(orca:_a_baleia_assassina, 2026).
+filme(orca_a_baleia_assassina).
+genero(orca_a_baleia_assassina, thriller).
+genero(orca_a_baleia_assassina, terror).
+genero(orca_a_baleia_assassina, acao).
+genero(orca_a_baleia_assassina, misterio).
+genero(orca_a_baleia_assassina, ficcao_cientifica).
+nota(orca_a_baleia_assassina, 56).
+duracao(orca_a_baleia_assassina, 89).
+ano(orca_a_baleia_assassina, 2026).
 
 filme(bastardos_inglorios).
 genero(bastardos_inglorios, drama).
@@ -2761,13 +2761,13 @@ nota(perigosa_obsessao, 66).
 duracao(perigosa_obsessao, 132).
 ano(perigosa_obsessao, 2014).
 
-filme(capitao_america:_admiravel_mundo_novo).
-genero(capitao_america:_admiravel_mundo_novo, acao).
-genero(capitao_america:_admiravel_mundo_novo, thriller).
-genero(capitao_america:_admiravel_mundo_novo, ficcao_cientifica).
-nota(capitao_america:_admiravel_mundo_novo, 60).
-duracao(capitao_america:_admiravel_mundo_novo, 119).
-ano(capitao_america:_admiravel_mundo_novo, 2025).
+filme(capitao_america_admiravel_mundo_novo).
+genero(capitao_america_admiravel_mundo_novo, acao).
+genero(capitao_america_admiravel_mundo_novo, thriller).
+genero(capitao_america_admiravel_mundo_novo, ficcao_cientifica).
+nota(capitao_america_admiravel_mundo_novo, 60).
+duracao(capitao_america_admiravel_mundo_novo, 119).
+ano(capitao_america_admiravel_mundo_novo, 2025).
 
 filme(my_brother_and_i).
 genero(my_brother_and_i, comedia).
@@ -2775,13 +2775,13 @@ nota(my_brother_and_i, 61).
 duracao(my_brother_and_i, 107).
 ano(my_brother_and_i, 2023).
 
-filme(batman_vs_superman:_a_origem_da_justica).
-genero(batman_vs_superman:_a_origem_da_justica, acao).
-genero(batman_vs_superman:_a_origem_da_justica, aventura).
-genero(batman_vs_superman:_a_origem_da_justica, fantasia).
-nota(batman_vs_superman:_a_origem_da_justica, 60).
-duracao(batman_vs_superman:_a_origem_da_justica, 182).
-ano(batman_vs_superman:_a_origem_da_justica, 2016).
+filme(batman_vs_superman_a_origem_da_justica).
+genero(batman_vs_superman_a_origem_da_justica, acao).
+genero(batman_vs_superman_a_origem_da_justica, aventura).
+genero(batman_vs_superman_a_origem_da_justica, fantasia).
+nota(batman_vs_superman_a_origem_da_justica, 60).
+duracao(batman_vs_superman_a_origem_da_justica, 182).
+ano(batman_vs_superman_a_origem_da_justica, 2016).
 
 filme(undertone).
 genero(undertone, terror).
@@ -2790,21 +2790,21 @@ nota(undertone, 57).
 duracao(undertone, 94).
 ano(undertone, 2026).
 
-filme(destruicao_final:_o_ultimo_refugio).
-genero(destruicao_final:_o_ultimo_refugio, acao).
-genero(destruicao_final:_o_ultimo_refugio, aventura).
-genero(destruicao_final:_o_ultimo_refugio, thriller).
-genero(destruicao_final:_o_ultimo_refugio, ficcao_cientifica).
-nota(destruicao_final:_o_ultimo_refugio, 71).
-duracao(destruicao_final:_o_ultimo_refugio, 120).
-ano(destruicao_final:_o_ultimo_refugio, 2020).
+filme(destruicao_final_o_ultimo_refugio).
+genero(destruicao_final_o_ultimo_refugio, acao).
+genero(destruicao_final_o_ultimo_refugio, aventura).
+genero(destruicao_final_o_ultimo_refugio, thriller).
+genero(destruicao_final_o_ultimo_refugio, ficcao_cientifica).
+nota(destruicao_final_o_ultimo_refugio, 71).
+duracao(destruicao_final_o_ultimo_refugio, 120).
+ano(destruicao_final_o_ultimo_refugio, 2020).
 
-filme(harry_potter_e_as_reliquias_da_morte_-_parte_1).
-genero(harry_potter_e_as_reliquias_da_morte_-_parte_1, aventura).
-genero(harry_potter_e_as_reliquias_da_morte_-_parte_1, fantasia).
-nota(harry_potter_e_as_reliquias_da_morte_-_parte_1, 77).
-duracao(harry_potter_e_as_reliquias_da_morte_-_parte_1, 146).
-ano(harry_potter_e_as_reliquias_da_morte_-_parte_1, 2010).
+filme(harry_potter_e_as_reliquias_da_morte__parte_1).
+genero(harry_potter_e_as_reliquias_da_morte__parte_1, aventura).
+genero(harry_potter_e_as_reliquias_da_morte__parte_1, fantasia).
+nota(harry_potter_e_as_reliquias_da_morte__parte_1, 77).
+duracao(harry_potter_e_as_reliquias_da_morte__parte_1, 146).
+ano(harry_potter_e_as_reliquias_da_morte__parte_1, 2010).
 
 filme(emanuelles_silver_tongue).
 genero(emanuelles_silver_tongue, comedia).
@@ -2813,21 +2813,21 @@ nota(emanuelles_silver_tongue, 13).
 duracao(emanuelles_silver_tongue, 87).
 ano(emanuelles_silver_tongue, 1976).
 
-filme(exterminio:_a_evolucao).
-genero(exterminio:_a_evolucao, terror).
-genero(exterminio:_a_evolucao, thriller).
-genero(exterminio:_a_evolucao, ficcao_cientifica).
-nota(exterminio:_a_evolucao, 66).
-duracao(exterminio:_a_evolucao, 115).
-ano(exterminio:_a_evolucao, 2025).
+filme(exterminio_a_evolucao).
+genero(exterminio_a_evolucao, terror).
+genero(exterminio_a_evolucao, thriller).
+genero(exterminio_a_evolucao, ficcao_cientifica).
+nota(exterminio_a_evolucao, 66).
+duracao(exterminio_a_evolucao, 115).
+ano(exterminio_a_evolucao, 2025).
 
-filme(o_exterminador_do_futuro:_genesis).
-genero(o_exterminador_do_futuro:_genesis, ficcao_cientifica).
-genero(o_exterminador_do_futuro:_genesis, acao).
-genero(o_exterminador_do_futuro:_genesis, thriller).
-nota(o_exterminador_do_futuro:_genesis, 60).
-duracao(o_exterminador_do_futuro:_genesis, 126).
-ano(o_exterminador_do_futuro:_genesis, 2015).
+filme(o_exterminador_do_futuro_genesis).
+genero(o_exterminador_do_futuro_genesis, ficcao_cientifica).
+genero(o_exterminador_do_futuro_genesis, acao).
+genero(o_exterminador_do_futuro_genesis, thriller).
+nota(o_exterminador_do_futuro_genesis, 60).
+duracao(o_exterminador_do_futuro_genesis, 126).
+ano(o_exterminador_do_futuro_genesis, 2015).
 
 filme(a_sombra_do_medo).
 genero(a_sombra_do_medo, terror).
@@ -2856,12 +2856,12 @@ nota(harry_potter_e_a_ordem_da_fenix, 77).
 duracao(harry_potter_e_a_ordem_da_fenix, 138).
 ano(harry_potter_e_a_ordem_da_fenix, 2007).
 
-filme(one_mile:_chapter_one).
-genero(one_mile:_chapter_one, acao).
-genero(one_mile:_chapter_one, crime).
-nota(one_mile:_chapter_one, 71).
-duracao(one_mile:_chapter_one, 86).
-ano(one_mile:_chapter_one, 2026).
+filme(one_mile_chapter_one).
+genero(one_mile_chapter_one, acao).
+genero(one_mile_chapter_one, crime).
+nota(one_mile_chapter_one, 71).
+duracao(one_mile_chapter_one, 86).
+ano(one_mile_chapter_one, 2026).
 
 filme(tres_homens_em_conflito).
 genero(tres_homens_em_conflito, faroeste).
@@ -2869,13 +2869,13 @@ nota(tres_homens_em_conflito, 85).
 duracao(tres_homens_em_conflito, 163).
 ano(tres_homens_em_conflito, 1966).
 
-filme(era_uma_vez_em..._hollywood).
-genero(era_uma_vez_em..._hollywood, comedia).
-genero(era_uma_vez_em..._hollywood, drama).
-genero(era_uma_vez_em..._hollywood, thriller).
-nota(era_uma_vez_em..._hollywood, 74).
-duracao(era_uma_vez_em..._hollywood, 162).
-ano(era_uma_vez_em..._hollywood, 2019).
+filme(era_uma_vez_em_hollywood).
+genero(era_uma_vez_em_hollywood, comedia).
+genero(era_uma_vez_em_hollywood, drama).
+genero(era_uma_vez_em_hollywood, thriller).
+nota(era_uma_vez_em_hollywood, 74).
+duracao(era_uma_vez_em_hollywood, 162).
+ano(era_uma_vez_em_hollywood, 2019).
 
 filme(ted).
 genero(ted, comedia).
@@ -2907,13 +2907,13 @@ nota(fogo_contra_fogo, 79).
 duracao(fogo_contra_fogo, 170).
 ano(fogo_contra_fogo, 1995).
 
-filme(mulher-maravilha).
-genero(mulher-maravilha, acao).
-genero(mulher-maravilha, aventura).
-genero(mulher-maravilha, fantasia).
-nota(mulher-maravilha, 72).
-duracao(mulher-maravilha, 141).
-ano(mulher-maravilha, 2017).
+filme(mulhermaravilha).
+genero(mulhermaravilha, acao).
+genero(mulhermaravilha, aventura).
+genero(mulhermaravilha, fantasia).
+nota(mulhermaravilha, 72).
+duracao(mulhermaravilha, 141).
+ano(mulhermaravilha, 2017).
 
 filme(conclave).
 genero(conclave, drama).
@@ -2929,13 +2929,13 @@ nota(venganza, 80).
 duracao(venganza, 103).
 ano(venganza, 2026).
 
-filme(o_exterminador_do_futuro_2:_o_julgamento_final).
-genero(o_exterminador_do_futuro_2:_o_julgamento_final, acao).
-genero(o_exterminador_do_futuro_2:_o_julgamento_final, thriller).
-genero(o_exterminador_do_futuro_2:_o_julgamento_final, ficcao_cientifica).
-nota(o_exterminador_do_futuro_2:_o_julgamento_final, 81).
-duracao(o_exterminador_do_futuro_2:_o_julgamento_final, 136).
-ano(o_exterminador_do_futuro_2:_o_julgamento_final, 1991).
+filme(o_exterminador_do_futuro_2_o_julgamento_final).
+genero(o_exterminador_do_futuro_2_o_julgamento_final, acao).
+genero(o_exterminador_do_futuro_2_o_julgamento_final, thriller).
+genero(o_exterminador_do_futuro_2_o_julgamento_final, ficcao_cientifica).
+nota(o_exterminador_do_futuro_2_o_julgamento_final, 81).
+duracao(o_exterminador_do_futuro_2_o_julgamento_final, 136).
+ano(o_exterminador_do_futuro_2_o_julgamento_final, 1991).
 
 filme(a_era_do_gelo).
 genero(a_era_do_gelo, animacao).
@@ -2955,13 +2955,13 @@ nota(o_predador, 75).
 duracao(o_predador, 107).
 ano(o_predador, 1987).
 
-filme(wall-e).
-genero(wall-e, animacao).
-genero(wall-e, familia).
-genero(wall-e, ficcao_cientifica).
-nota(wall-e, 81).
-duracao(wall-e, 97).
-ano(wall-e, 2008).
+filme(walle).
+genero(walle, animacao).
+genero(walle, familia).
+genero(walle, ficcao_cientifica).
+nota(walle, 81).
+duracao(walle, 97).
+ano(walle, 2008).
 
 filme(jedda).
 genero(jedda, aventura).
@@ -2979,13 +2979,13 @@ nota(nunca_morra_sozinho, 55).
 duracao(nunca_morra_sozinho, 88).
 ano(nunca_morra_sozinho, 2004).
 
-filme(a_meia-irma_feia).
-genero(a_meia-irma_feia, terror).
-genero(a_meia-irma_feia, comedia).
-genero(a_meia-irma_feia, drama).
-nota(a_meia-irma_feia, 73).
-duracao(a_meia-irma_feia, 109).
-ano(a_meia-irma_feia, 2025).
+filme(a_meiairma_feia).
+genero(a_meiairma_feia, terror).
+genero(a_meiairma_feia, comedia).
+genero(a_meiairma_feia, drama).
+nota(a_meiairma_feia, 73).
+duracao(a_meiairma_feia, 109).
+ano(a_meiairma_feia, 2025).
 
 filme(sirat).
 genero(sirat, drama).
@@ -2994,13 +2994,13 @@ nota(sirat, 68).
 duracao(sirat, 120).
 ano(sirat, 2025).
 
-filme(guardioes_da_galaxia:_vol._3).
-genero(guardioes_da_galaxia:_vol._3, ficcao_cientifica).
-genero(guardioes_da_galaxia:_vol._3, aventura).
-genero(guardioes_da_galaxia:_vol._3, acao).
-nota(guardioes_da_galaxia:_vol._3, 79).
-duracao(guardioes_da_galaxia:_vol._3, 150).
-ano(guardioes_da_galaxia:_vol._3, 2023).
+filme(guardioes_da_galaxia_vol_3).
+genero(guardioes_da_galaxia_vol_3, ficcao_cientifica).
+genero(guardioes_da_galaxia_vol_3, aventura).
+genero(guardioes_da_galaxia_vol_3, acao).
+nota(guardioes_da_galaxia_vol_3, 79).
+duracao(guardioes_da_galaxia_vol_3, 150).
+ano(guardioes_da_galaxia_vol_3, 2023).
 
 filme(anora).
 genero(anora, drama).
@@ -3032,13 +3032,13 @@ nota(invasao_zumbi, 77).
 duracao(invasao_zumbi, 118).
 ano(invasao_zumbi, 2016).
 
-filme(capitao_america:_guerra_civil).
-genero(capitao_america:_guerra_civil, aventura).
-genero(capitao_america:_guerra_civil, acao).
-genero(capitao_america:_guerra_civil, ficcao_cientifica).
-nota(capitao_america:_guerra_civil, 74).
-duracao(capitao_america:_guerra_civil, 137).
-ano(capitao_america:_guerra_civil, 2016).
+filme(capitao_america_guerra_civil).
+genero(capitao_america_guerra_civil, aventura).
+genero(capitao_america_guerra_civil, acao).
+genero(capitao_america_guerra_civil, ficcao_cientifica).
+nota(capitao_america_guerra_civil, 74).
+duracao(capitao_america_guerra_civil, 137).
+ano(capitao_america_guerra_civil, 2016).
 
 filme(beauty_from_pain).
 genero(beauty_from_pain, romance).
@@ -3047,29 +3047,29 @@ nota(beauty_from_pain, 70).
 duracao(beauty_from_pain, 116).
 ano(beauty_from_pain, 2025).
 
-filme(o_espetacular_homem-aranha_2:_a_ameaca_de_electro).
-genero(o_espetacular_homem-aranha_2:_a_ameaca_de_electro, acao).
-genero(o_espetacular_homem-aranha_2:_a_ameaca_de_electro, aventura).
-genero(o_espetacular_homem-aranha_2:_a_ameaca_de_electro, ficcao_cientifica).
-nota(o_espetacular_homem-aranha_2:_a_ameaca_de_electro, 65).
-duracao(o_espetacular_homem-aranha_2:_a_ameaca_de_electro, 141).
-ano(o_espetacular_homem-aranha_2:_a_ameaca_de_electro, 2014).
+filme(o_espetacular_homemaranha_2_a_ameaca_de_electro).
+genero(o_espetacular_homemaranha_2_a_ameaca_de_electro, acao).
+genero(o_espetacular_homemaranha_2_a_ameaca_de_electro, aventura).
+genero(o_espetacular_homemaranha_2_a_ameaca_de_electro, ficcao_cientifica).
+nota(o_espetacular_homemaranha_2_a_ameaca_de_electro, 65).
+duracao(o_espetacular_homemaranha_2_a_ameaca_de_electro, 141).
+ano(o_espetacular_homemaranha_2_a_ameaca_de_electro, 2014).
 
-filme(a_longa_marcha:_caminhe_ou_morra).
-genero(a_longa_marcha:_caminhe_ou_morra, ficcao_cientifica).
-genero(a_longa_marcha:_caminhe_ou_morra, thriller).
-genero(a_longa_marcha:_caminhe_ou_morra, terror).
-nota(a_longa_marcha:_caminhe_ou_morra, 69).
-duracao(a_longa_marcha:_caminhe_ou_morra, 109).
-ano(a_longa_marcha:_caminhe_ou_morra, 2025).
+filme(a_longa_marcha_caminhe_ou_morra).
+genero(a_longa_marcha_caminhe_ou_morra, ficcao_cientifica).
+genero(a_longa_marcha_caminhe_ou_morra, thriller).
+genero(a_longa_marcha_caminhe_ou_morra, terror).
+nota(a_longa_marcha_caminhe_ou_morra, 69).
+duracao(a_longa_marcha_caminhe_ou_morra, 109).
+ano(a_longa_marcha_caminhe_ou_morra, 2025).
 
-filme(corra!).
-genero(corra!, misterio).
-genero(corra!, thriller).
-genero(corra!, terror).
-nota(corra!, 76).
-duracao(corra!, 104).
-ano(corra!, 2017).
+filme(corra).
+genero(corra, misterio).
+genero(corra, thriller).
+genero(corra, terror).
+nota(corra, 76).
+duracao(corra, 104).
+ano(corra, 2017).
 
 filme(django_livre).
 genero(django_livre, drama).
@@ -3078,13 +3078,13 @@ nota(django_livre, 82).
 duracao(django_livre, 165).
 ano(django_livre, 2012).
 
-filme(la_la_land:_cantando_estacoes).
-genero(la_la_land:_cantando_estacoes, comedia).
-genero(la_la_land:_cantando_estacoes, drama).
-genero(la_la_land:_cantando_estacoes, romance).
-nota(la_la_land:_cantando_estacoes, 79).
-duracao(la_la_land:_cantando_estacoes, 128).
-ano(la_la_land:_cantando_estacoes, 2016).
+filme(la_la_land_cantando_estacoes).
+genero(la_la_land_cantando_estacoes, comedia).
+genero(la_la_land_cantando_estacoes, drama).
+genero(la_la_land_cantando_estacoes, romance).
+nota(la_la_land_cantando_estacoes, 79).
+duracao(la_la_land_cantando_estacoes, 128).
+ano(la_la_land_cantando_estacoes, 2016).
 
 filme(toy_story_2).
 genero(toy_story_2, animacao).
@@ -3094,13 +3094,13 @@ nota(toy_story_2, 76).
 duracao(toy_story_2, 92).
 ano(toy_story_2, 1999).
 
-filme(guardioes_da_galaxia_-_vol._2).
-genero(guardioes_da_galaxia_-_vol._2, ficcao_cientifica).
-genero(guardioes_da_galaxia_-_vol._2, aventura).
-genero(guardioes_da_galaxia_-_vol._2, acao).
-nota(guardioes_da_galaxia_-_vol._2, 76).
-duracao(guardioes_da_galaxia_-_vol._2, 136).
-ano(guardioes_da_galaxia_-_vol._2, 2017).
+filme(guardioes_da_galaxia__vol_2).
+genero(guardioes_da_galaxia__vol_2, ficcao_cientifica).
+genero(guardioes_da_galaxia__vol_2, aventura).
+genero(guardioes_da_galaxia__vol_2, acao).
+nota(guardioes_da_galaxia__vol_2, 76).
+duracao(guardioes_da_galaxia__vol_2, 136).
+ano(guardioes_da_galaxia__vol_2, 2017).
 
 filme(deathstalker).
 genero(deathstalker, fantasia).
@@ -3126,13 +3126,13 @@ nota(o_protetor, 73).
 duracao(o_protetor, 132).
 ano(o_protetor, 2014).
 
-filme(mufasa:_o_rei_leao).
-genero(mufasa:_o_rei_leao, aventura).
-genero(mufasa:_o_rei_leao, familia).
-genero(mufasa:_o_rei_leao, animacao).
-nota(mufasa:_o_rei_leao, 73).
-duracao(mufasa:_o_rei_leao, 118).
-ano(mufasa:_o_rei_leao, 2024).
+filme(mufasa_o_rei_leao).
+genero(mufasa_o_rei_leao, aventura).
+genero(mufasa_o_rei_leao, familia).
+genero(mufasa_o_rei_leao, animacao).
+nota(mufasa_o_rei_leao, 73).
+duracao(mufasa_o_rei_leao, 118).
+ano(mufasa_o_rei_leao, 2024).
 
 filme(busca_implacavel).
 genero(busca_implacavel, acao).
@@ -3224,20 +3224,20 @@ nota(affinity, 53).
 duracao(affinity, 84).
 ano(affinity, 2025).
 
-filme(van_helsing:_o_cacador_de_monstros).
-genero(van_helsing:_o_cacador_de_monstros, terror).
-genero(van_helsing:_o_cacador_de_monstros, aventura).
-genero(van_helsing:_o_cacador_de_monstros, acao).
-nota(van_helsing:_o_cacador_de_monstros, 64).
-duracao(van_helsing:_o_cacador_de_monstros, 132).
-ano(van_helsing:_o_cacador_de_monstros, 2004).
+filme(van_helsing_o_cacador_de_monstros).
+genero(van_helsing_o_cacador_de_monstros, terror).
+genero(van_helsing_o_cacador_de_monstros, aventura).
+genero(van_helsing_o_cacador_de_monstros, acao).
+nota(van_helsing_o_cacador_de_monstros, 64).
+duracao(van_helsing_o_cacador_de_monstros, 132).
+ano(van_helsing_o_cacador_de_monstros, 2004).
 
-filme(harry_potter_e_as_reliquias_da_morte_-_parte_2).
-genero(harry_potter_e_as_reliquias_da_morte_-_parte_2, aventura).
-genero(harry_potter_e_as_reliquias_da_morte_-_parte_2, fantasia).
-nota(harry_potter_e_as_reliquias_da_morte_-_parte_2, 81).
-duracao(harry_potter_e_as_reliquias_da_morte_-_parte_2, 130).
-ano(harry_potter_e_as_reliquias_da_morte_-_parte_2, 2011).
+filme(harry_potter_e_as_reliquias_da_morte__parte_2).
+genero(harry_potter_e_as_reliquias_da_morte__parte_2, aventura).
+genero(harry_potter_e_as_reliquias_da_morte__parte_2, fantasia).
+nota(harry_potter_e_as_reliquias_da_morte__parte_2, 81).
+duracao(harry_potter_e_as_reliquias_da_morte__parte_2, 130).
+ano(harry_potter_e_as_reliquias_da_morte__parte_2, 2011).
 
 filme(days_of_36).
 genero(days_of_36, drama).
@@ -3304,27 +3304,27 @@ nota(gladiador_2, 66).
 duracao(gladiador_2, 150).
 ano(gladiador_2, 2024).
 
-filme(torrente,_the_dumb_arm_of_the_law).
-genero(torrente,_the_dumb_arm_of_the_law, comedia).
-genero(torrente,_the_dumb_arm_of_the_law, crime).
-nota(torrente,_the_dumb_arm_of_the_law, 64).
-duracao(torrente,_the_dumb_arm_of_the_law, 97).
-ano(torrente,_the_dumb_arm_of_the_law, 1998).
+filme(torrente_the_dumb_arm_of_the_law).
+genero(torrente_the_dumb_arm_of_the_law, comedia).
+genero(torrente_the_dumb_arm_of_the_law, crime).
+nota(torrente_the_dumb_arm_of_the_law, 64).
+duracao(torrente_the_dumb_arm_of_the_law, 97).
+ano(torrente_the_dumb_arm_of_the_law, 1998).
 
-filme(o_show_de_truman:_o_show_da_vida).
-genero(o_show_de_truman:_o_show_da_vida, comedia).
-genero(o_show_de_truman:_o_show_da_vida, drama).
-nota(o_show_de_truman:_o_show_da_vida, 82).
-duracao(o_show_de_truman:_o_show_da_vida, 103).
-ano(o_show_de_truman:_o_show_da_vida, 1998).
+filme(o_show_de_truman_o_show_da_vida).
+genero(o_show_de_truman_o_show_da_vida, comedia).
+genero(o_show_de_truman_o_show_da_vida, drama).
+nota(o_show_de_truman_o_show_da_vida, 82).
+duracao(o_show_de_truman_o_show_da_vida, 103).
+ano(o_show_de_truman_o_show_da_vida, 1998).
 
-filme(mad_max:_estrada_da_furia).
-genero(mad_max:_estrada_da_furia, acao).
-genero(mad_max:_estrada_da_furia, aventura).
-genero(mad_max:_estrada_da_furia, ficcao_cientifica).
-nota(mad_max:_estrada_da_furia, 76).
-duracao(mad_max:_estrada_da_furia, 120).
-ano(mad_max:_estrada_da_furia, 2015).
+filme(mad_max_estrada_da_furia).
+genero(mad_max_estrada_da_furia, acao).
+genero(mad_max_estrada_da_furia, aventura).
+genero(mad_max_estrada_da_furia, ficcao_cientifica).
+nota(mad_max_estrada_da_furia, 76).
+duracao(mad_max_estrada_da_furia, 120).
+ano(mad_max_estrada_da_furia, 2015).
 
 filme(a_mumia).
 genero(a_mumia, aventura).
@@ -3350,13 +3350,13 @@ nota(homem_de_ferro_3, 69).
 duracao(homem_de_ferro_3, 130).
 ano(homem_de_ferro_3, 2013).
 
-filme(blue_moon:_musica_e_solidao).
-genero(blue_moon:_musica_e_solidao, historia).
-genero(blue_moon:_musica_e_solidao, drama).
-genero(blue_moon:_musica_e_solidao, comedia).
-nota(blue_moon:_musica_e_solidao, 66).
-duracao(blue_moon:_musica_e_solidao, 100).
-ano(blue_moon:_musica_e_solidao, 2025).
+filme(blue_moon_musica_e_solidao).
+genero(blue_moon_musica_e_solidao, historia).
+genero(blue_moon_musica_e_solidao, drama).
+genero(blue_moon_musica_e_solidao, comedia).
+nota(blue_moon_musica_e_solidao, 66).
+duracao(blue_moon_musica_e_solidao, 100).
+ano(blue_moon_musica_e_solidao, 2025).
 
 filme(cidade_do_odio).
 genero(cidade_do_odio, thriller).
@@ -3374,13 +3374,13 @@ nota(red_sonja, 57).
 duracao(red_sonja, 111).
 ano(red_sonja, 2025).
 
-filme(godzilla_e_kong:_o_novo_imperio).
-genero(godzilla_e_kong:_o_novo_imperio, acao).
-genero(godzilla_e_kong:_o_novo_imperio, aventura).
-genero(godzilla_e_kong:_o_novo_imperio, ficcao_cientifica).
-nota(godzilla_e_kong:_o_novo_imperio, 70).
-duracao(godzilla_e_kong:_o_novo_imperio, 115).
-ano(godzilla_e_kong:_o_novo_imperio, 2024).
+filme(godzilla_e_kong_o_novo_imperio).
+genero(godzilla_e_kong_o_novo_imperio, acao).
+genero(godzilla_e_kong_o_novo_imperio, aventura).
+genero(godzilla_e_kong_o_novo_imperio, ficcao_cientifica).
+nota(godzilla_e_kong_o_novo_imperio, 70).
+duracao(godzilla_e_kong_o_novo_imperio, 115).
+ano(godzilla_e_kong_o_novo_imperio, 2024).
 
 filme(number_one_fan).
 genero(number_one_fan, thriller).
@@ -3415,13 +3415,13 @@ nota(enterramos_os_mortos, 61).
 duracao(enterramos_os_mortos, 95).
 ano(enterramos_os_mortos, 2026).
 
-filme(blade_runner:_o_cacador_de_androides).
-genero(blade_runner:_o_cacador_de_androides, ficcao_cientifica).
-genero(blade_runner:_o_cacador_de_androides, drama).
-genero(blade_runner:_o_cacador_de_androides, thriller).
-nota(blade_runner:_o_cacador_de_androides, 79).
-duracao(blade_runner:_o_cacador_de_androides, 117).
-ano(blade_runner:_o_cacador_de_androides, 1982).
+filme(blade_runner_o_cacador_de_androides).
+genero(blade_runner_o_cacador_de_androides, ficcao_cientifica).
+genero(blade_runner_o_cacador_de_androides, drama).
+genero(blade_runner_o_cacador_de_androides, thriller).
+nota(blade_runner_o_cacador_de_androides, 79).
+duracao(blade_runner_o_cacador_de_androides, 117).
+ano(blade_runner_o_cacador_de_androides, 1982).
 
 filme(exit_8).
 genero(exit_8, terror).
@@ -3430,14 +3430,14 @@ nota(exit_8, 65).
 duracao(exit_8, 95).
 ano(exit_8, 2025).
 
-filme(maze_runner:_correr_ou_morrer).
-genero(maze_runner:_correr_ou_morrer, acao).
-genero(maze_runner:_correr_ou_morrer, misterio).
-genero(maze_runner:_correr_ou_morrer, ficcao_cientifica).
-genero(maze_runner:_correr_ou_morrer, thriller).
-nota(maze_runner:_correr_ou_morrer, 72).
-duracao(maze_runner:_correr_ou_morrer, 113).
-ano(maze_runner:_correr_ou_morrer, 2014).
+filme(maze_runner_correr_ou_morrer).
+genero(maze_runner_correr_ou_morrer, acao).
+genero(maze_runner_correr_ou_morrer, misterio).
+genero(maze_runner_correr_ou_morrer, ficcao_cientifica).
+genero(maze_runner_correr_ou_morrer, thriller).
+nota(maze_runner_correr_ou_morrer, 72).
+duracao(maze_runner_correr_ou_morrer, 113).
+ano(maze_runner_correr_ou_morrer, 2014).
 
 filme(entre_facas_e_segredos).
 genero(entre_facas_e_segredos, comedia).
@@ -3456,13 +3456,13 @@ nota(flow, 81).
 duracao(flow, 85).
 ano(flow, 2024).
 
-filme(piratas_do_caribe:_o_bau_da_morte).
-genero(piratas_do_caribe:_o_bau_da_morte, aventura).
-genero(piratas_do_caribe:_o_bau_da_morte, fantasia).
-genero(piratas_do_caribe:_o_bau_da_morte, acao).
-nota(piratas_do_caribe:_o_bau_da_morte, 74).
-duracao(piratas_do_caribe:_o_bau_da_morte, 151).
-ano(piratas_do_caribe:_o_bau_da_morte, 2006).
+filme(piratas_do_caribe_o_bau_da_morte).
+genero(piratas_do_caribe_o_bau_da_morte, aventura).
+genero(piratas_do_caribe_o_bau_da_morte, fantasia).
+genero(piratas_do_caribe_o_bau_da_morte, acao).
+nota(piratas_do_caribe_o_bau_da_morte, 74).
+duracao(piratas_do_caribe_o_bau_da_morte, 151).
+ano(piratas_do_caribe_o_bau_da_morte, 2006).
 
 filme(the_dwarfs).
 genero(the_dwarfs, drama).
@@ -3500,20 +3500,20 @@ nota(hierarquia_do_crime, 57).
 duracao(hierarquia_do_crime, 97).
 ano(hierarquia_do_crime, 2025).
 
-filme(peca-me_o_que_quiser).
-genero(peca-me_o_que_quiser, romance).
-genero(peca-me_o_que_quiser, drama).
-nota(peca-me_o_que_quiser, 61).
-duracao(peca-me_o_que_quiser, 114).
-ano(peca-me_o_que_quiser, 2024).
+filme(pecame_o_que_quiser).
+genero(pecame_o_que_quiser, romance).
+genero(pecame_o_que_quiser, drama).
+nota(pecame_o_que_quiser, 61).
+duracao(pecame_o_que_quiser, 114).
+ano(pecame_o_que_quiser, 2024).
 
-filme(jurassic_world:_dominio).
-genero(jurassic_world:_dominio, aventura).
-genero(jurassic_world:_dominio, acao).
-genero(jurassic_world:_dominio, ficcao_cientifica).
-nota(jurassic_world:_dominio, 66).
-duracao(jurassic_world:_dominio, 147).
-ano(jurassic_world:_dominio, 2022).
+filme(jurassic_world_dominio).
+genero(jurassic_world_dominio, aventura).
+genero(jurassic_world_dominio, acao).
+genero(jurassic_world_dominio, ficcao_cientifica).
+nota(jurassic_world_dominio, 66).
+duracao(jurassic_world_dominio, 147).
+ano(jurassic_world_dominio, 2022).
 
 filme(ilha_do_medo).
 genero(ilha_do_medo, drama).
@@ -3543,13 +3543,13 @@ nota(familia_de_aluguel, 78).
 duracao(familia_de_aluguel, 103).
 ano(familia_de_aluguel, 2025).
 
-filme(vivo_ou_morto:_um_misterio_knives_out).
-genero(vivo_ou_morto:_um_misterio_knives_out, thriller).
-genero(vivo_ou_morto:_um_misterio_knives_out, misterio).
-genero(vivo_ou_morto:_um_misterio_knives_out, comedia).
-nota(vivo_ou_morto:_um_misterio_knives_out, 72).
-duracao(vivo_ou_morto:_um_misterio_knives_out, 145).
-ano(vivo_ou_morto:_um_misterio_knives_out, 2025).
+filme(vivo_ou_morto_um_misterio_knives_out).
+genero(vivo_ou_morto_um_misterio_knives_out, thriller).
+genero(vivo_ou_morto_um_misterio_knives_out, misterio).
+genero(vivo_ou_morto_um_misterio_knives_out, comedia).
+nota(vivo_ou_morto_um_misterio_knives_out, 72).
+duracao(vivo_ou_morto_um_misterio_knives_out, 145).
+ano(vivo_ou_morto_um_misterio_knives_out, 2025).
 
 filme(the_four_gates_of_death).
 genero(the_four_gates_of_death, comedia).
@@ -3579,13 +3579,13 @@ nota(as_branquelas, 69).
 duracao(as_branquelas, 114).
 ano(as_branquelas, 2004).
 
-filme(karate_kid:_lendas).
-genero(karate_kid:_lendas, acao).
-genero(karate_kid:_lendas, aventura).
-genero(karate_kid:_lendas, drama).
-nota(karate_kid:_lendas, 70).
-duracao(karate_kid:_lendas, 90).
-ano(karate_kid:_lendas, 2025).
+filme(karate_kid_lendas).
+genero(karate_kid_lendas, acao).
+genero(karate_kid_lendas, aventura).
+genero(karate_kid_lendas, drama).
+nota(karate_kid_lendas, 70).
+duracao(karate_kid_lendas, 90).
+ano(karate_kid_lendas, 2025).
 
 filme(a_lenda_de_hei_2).
 genero(a_lenda_de_hei_2, animacao).
@@ -3632,13 +3632,13 @@ nota(kung_fu_panda_4, 70).
 duracao(kung_fu_panda_4, 94).
 ano(kung_fu_panda_4, 2024).
 
-filme(capitao_hook:_as_mares_malditas).
-genero(capitao_hook:_as_mares_malditas, aventura).
-genero(capitao_hook:_as_mares_malditas, acao).
-genero(capitao_hook:_as_mares_malditas, terror).
-nota(capitao_hook:_as_mares_malditas, 51).
-duracao(capitao_hook:_as_mares_malditas, 90).
-ano(capitao_hook:_as_mares_malditas, 2025).
+filme(capitao_hook_as_mares_malditas).
+genero(capitao_hook_as_mares_malditas, aventura).
+genero(capitao_hook_as_mares_malditas, acao).
+genero(capitao_hook_as_mares_malditas, terror).
+nota(capitao_hook_as_mares_malditas, 51).
+duracao(capitao_hook_as_mares_malditas, 90).
+ano(capitao_hook_as_mares_malditas, 2025).
 
 filme(o_quinto_elemento).
 genero(o_quinto_elemento, ficcao_cientifica).
@@ -3677,23 +3677,23 @@ nota(todo_mundo_em_panico_5, 48).
 duracao(todo_mundo_em_panico_5, 86).
 ano(todo_mundo_em_panico_5, 2013).
 
-filme(john_wick_4:_baba_yaga).
-genero(john_wick_4:_baba_yaga, acao).
-genero(john_wick_4:_baba_yaga, thriller).
-genero(john_wick_4:_baba_yaga, crime).
-nota(john_wick_4:_baba_yaga, 77).
-duracao(john_wick_4:_baba_yaga, 169).
-ano(john_wick_4:_baba_yaga, 2023).
+filme(john_wick_4_baba_yaga).
+genero(john_wick_4_baba_yaga, acao).
+genero(john_wick_4_baba_yaga, thriller).
+genero(john_wick_4_baba_yaga, crime).
+nota(john_wick_4_baba_yaga, 77).
+duracao(john_wick_4_baba_yaga, 169).
+ano(john_wick_4_baba_yaga, 2023).
 
-filme(gato_de_botas_2:_o_ultimo_pedido).
-genero(gato_de_botas_2:_o_ultimo_pedido, animacao).
-genero(gato_de_botas_2:_o_ultimo_pedido, aventura).
-genero(gato_de_botas_2:_o_ultimo_pedido, fantasia).
-genero(gato_de_botas_2:_o_ultimo_pedido, comedia).
-genero(gato_de_botas_2:_o_ultimo_pedido, familia).
-nota(gato_de_botas_2:_o_ultimo_pedido, 82).
-duracao(gato_de_botas_2:_o_ultimo_pedido, 103).
-ano(gato_de_botas_2:_o_ultimo_pedido, 2022).
+filme(gato_de_botas_2_o_ultimo_pedido).
+genero(gato_de_botas_2_o_ultimo_pedido, animacao).
+genero(gato_de_botas_2_o_ultimo_pedido, aventura).
+genero(gato_de_botas_2_o_ultimo_pedido, fantasia).
+genero(gato_de_botas_2_o_ultimo_pedido, comedia).
+genero(gato_de_botas_2_o_ultimo_pedido, familia).
+nota(gato_de_botas_2_o_ultimo_pedido, 82).
+duracao(gato_de_botas_2_o_ultimo_pedido, 103).
+ano(gato_de_botas_2_o_ultimo_pedido, 2022).
 
 filme(curvature).
 genero(curvature, ficcao_cientifica).
@@ -3710,12 +3710,12 @@ nota(perdido_em_marte, 77).
 duracao(perdido_em_marte, 141).
 ano(perdido_em_marte, 2015).
 
-filme(quieres_ser_mi_novia?).
-genero(quieres_ser_mi_novia?, comedia).
-genero(quieres_ser_mi_novia?, romance).
-nota(quieres_ser_mi_novia?, 89).
-duracao(quieres_ser_mi_novia?, 97).
-ano(quieres_ser_mi_novia?, 2026).
+filme(quieres_ser_mi_novia).
+genero(quieres_ser_mi_novia, comedia).
+genero(quieres_ser_mi_novia, romance).
+nota(quieres_ser_mi_novia, 89).
+duracao(quieres_ser_mi_novia, 97).
+ano(quieres_ser_mi_novia, 2026).
 
 filme(ratatouille).
 genero(ratatouille, animacao).
@@ -3733,12 +3733,12 @@ nota(buddys_mom, 57).
 duracao(buddys_mom, 101).
 ano(buddys_mom, 2015).
 
-filme(alien:_romulus).
-genero(alien:_romulus, terror).
-genero(alien:_romulus, ficcao_cientifica).
-nota(alien:_romulus, 72).
-duracao(alien:_romulus, 119).
-ano(alien:_romulus, 2024).
+filme(alien_romulus).
+genero(alien_romulus, terror).
+genero(alien_romulus, ficcao_cientifica).
+nota(alien_romulus, 72).
+duracao(alien_romulus, 119).
+ano(alien_romulus, 2024).
 
 filme(orgulho_e_preconceito).
 genero(orgulho_e_preconceito, drama).
@@ -3747,36 +3747,36 @@ nota(orgulho_e_preconceito, 80).
 duracao(orgulho_e_preconceito, 128).
 ano(orgulho_e_preconceito, 2005).
 
-filme(piratas_do_caribe:_navegando_em_aguas_misteriosas).
-genero(piratas_do_caribe:_navegando_em_aguas_misteriosas, aventura).
-genero(piratas_do_caribe:_navegando_em_aguas_misteriosas, acao).
-genero(piratas_do_caribe:_navegando_em_aguas_misteriosas, fantasia).
-nota(piratas_do_caribe:_navegando_em_aguas_misteriosas, 66).
-duracao(piratas_do_caribe:_navegando_em_aguas_misteriosas, 136).
-ano(piratas_do_caribe:_navegando_em_aguas_misteriosas, 2011).
+filme(piratas_do_caribe_navegando_em_aguas_misteriosas).
+genero(piratas_do_caribe_navegando_em_aguas_misteriosas, aventura).
+genero(piratas_do_caribe_navegando_em_aguas_misteriosas, acao).
+genero(piratas_do_caribe_navegando_em_aguas_misteriosas, fantasia).
+nota(piratas_do_caribe_navegando_em_aguas_misteriosas, 66).
+duracao(piratas_do_caribe_navegando_em_aguas_misteriosas, 136).
+ano(piratas_do_caribe_navegando_em_aguas_misteriosas, 2011).
 
-filme(trem-bala).
-genero(trem-bala, acao).
-genero(trem-bala, comedia).
-genero(trem-bala, thriller).
-nota(trem-bala, 74).
-duracao(trem-bala, 126).
-ano(trem-bala, 2022).
+filme(trembala).
+genero(trembala, acao).
+genero(trembala, comedia).
+genero(trembala, thriller).
+nota(trembala, 74).
+duracao(trembala, 126).
+ano(trembala, 2022).
 
-filme(aliens:_o_resgate).
-genero(aliens:_o_resgate, acao).
-genero(aliens:_o_resgate, thriller).
-genero(aliens:_o_resgate, ficcao_cientifica).
-nota(aliens:_o_resgate, 80).
-duracao(aliens:_o_resgate, 154).
-ano(aliens:_o_resgate, 1986).
+filme(aliens_o_resgate).
+genero(aliens_o_resgate, acao).
+genero(aliens_o_resgate, thriller).
+genero(aliens_o_resgate, ficcao_cientifica).
+nota(aliens_o_resgate, 80).
+duracao(aliens_o_resgate, 154).
+ano(aliens_o_resgate, 1986).
 
-filme(closer:_perto_demais).
-genero(closer:_perto_demais, drama).
-genero(closer:_perto_demais, romance).
-nota(closer:_perto_demais, 68).
-duracao(closer:_perto_demais, 104).
-ano(closer:_perto_demais, 2004).
+filme(closer_perto_demais).
+genero(closer_perto_demais, drama).
+genero(closer_perto_demais, romance).
+nota(closer_perto_demais, 68).
+duracao(closer_perto_demais, 104).
+ano(closer_perto_demais, 2004).
 
 filme(os_incriveis).
 genero(os_incriveis, acao).
@@ -3787,13 +3787,13 @@ nota(os_incriveis, 77).
 duracao(os_incriveis, 115).
 ano(os_incriveis, 2004).
 
-filme(whos_the_caboose?).
-genero(whos_the_caboose?, comedia).
-genero(whos_the_caboose?, romance).
-genero(whos_the_caboose?, drama).
-nota(whos_the_caboose?, 45).
-duracao(whos_the_caboose?, 93).
-ano(whos_the_caboose?, 1997).
+filme(whos_the_caboose).
+genero(whos_the_caboose, comedia).
+genero(whos_the_caboose, romance).
+genero(whos_the_caboose, drama).
+nota(whos_the_caboose, 45).
+duracao(whos_the_caboose, 93).
+ano(whos_the_caboose, 1997).
 
 filme(ate_o_ultimo_homem).
 genero(ate_o_ultimo_homem, drama).
@@ -3803,12 +3803,12 @@ nota(ate_o_ultimo_homem, 82).
 duracao(ate_o_ultimo_homem, 140).
 ano(ate_o_ultimo_homem, 2016).
 
-filme(kill_bill:_volume_1).
-genero(kill_bill:_volume_1, acao).
-genero(kill_bill:_volume_1, crime).
-nota(kill_bill:_volume_1, 80).
-duracao(kill_bill:_volume_1, 111).
-ano(kill_bill:_volume_1, 2003).
+filme(kill_bill_volume_1).
+genero(kill_bill_volume_1, acao).
+genero(kill_bill_volume_1, crime).
+nota(kill_bill_volume_1, 80).
+duracao(kill_bill_volume_1, 111).
+ano(kill_bill_volume_1, 2003).
 
 filme(2012).
 genero(2012, acao).
@@ -3826,21 +3826,21 @@ nota(liga_da_justica_de_zack_snyder, 81).
 duracao(liga_da_justica_de_zack_snyder, 242).
 ano(liga_da_justica_de_zack_snyder, 2021).
 
-filme(homem-formiga).
-genero(homem-formiga, ficcao_cientifica).
-genero(homem-formiga, aventura).
-genero(homem-formiga, acao).
-nota(homem-formiga, 71).
-duracao(homem-formiga, 115).
-ano(homem-formiga, 2015).
+filme(homemformiga).
+genero(homemformiga, ficcao_cientifica).
+genero(homemformiga, aventura).
+genero(homemformiga, acao).
+nota(homemformiga, 71).
+duracao(homemformiga, 115).
+ano(homemformiga, 2015).
 
-filme(xxx:_reativado).
-genero(xxx:_reativado, acao).
-genero(xxx:_reativado, aventura).
-genero(xxx:_reativado, crime).
-nota(xxx:_reativado, 61).
-duracao(xxx:_reativado, 107).
-ano(xxx:_reativado, 2017).
+filme(xxx_reativado).
+genero(xxx_reativado, acao).
+genero(xxx_reativado, aventura).
+genero(xxx_reativado, crime).
+nota(xxx_reativado, 61).
+duracao(xxx_reativado, 107).
+ano(xxx_reativado, 2017).
 
 filme(motorista_de_fuga).
 genero(motorista_de_fuga, thriller).
@@ -3859,13 +3859,13 @@ nota(a_bela_e_a_fera, 77).
 duracao(a_bela_e_a_fera, 110).
 ano(a_bela_e_a_fera, 1991).
 
-filme(kraven:_o_cacador).
-genero(kraven:_o_cacador, acao).
-genero(kraven:_o_cacador, aventura).
-genero(kraven:_o_cacador, thriller).
-nota(kraven:_o_cacador, 64).
-duracao(kraven:_o_cacador, 127).
-ano(kraven:_o_cacador, 2024).
+filme(kraven_o_cacador).
+genero(kraven_o_cacador, acao).
+genero(kraven_o_cacador, aventura).
+genero(kraven_o_cacador, thriller).
+nota(kraven_o_cacador, 64).
+duracao(kraven_o_cacador, 127).
+ano(kraven_o_cacador, 2024).
 
 filme(panico_2).
 genero(panico_2, terror).
@@ -3900,13 +3900,13 @@ nota(a_nova_onda_do_imperador, 76).
 duracao(a_nova_onda_do_imperador, 76).
 ano(a_nova_onda_do_imperador, 2000).
 
-filme(piratas_do_caribe:_no_fim_do_mundo).
-genero(piratas_do_caribe:_no_fim_do_mundo, aventura).
-genero(piratas_do_caribe:_no_fim_do_mundo, fantasia).
-genero(piratas_do_caribe:_no_fim_do_mundo, acao).
-nota(piratas_do_caribe:_no_fim_do_mundo, 73).
-duracao(piratas_do_caribe:_no_fim_do_mundo, 169).
-ano(piratas_do_caribe:_no_fim_do_mundo, 2007).
+filme(piratas_do_caribe_no_fim_do_mundo).
+genero(piratas_do_caribe_no_fim_do_mundo, aventura).
+genero(piratas_do_caribe_no_fim_do_mundo, fantasia).
+genero(piratas_do_caribe_no_fim_do_mundo, acao).
+nota(piratas_do_caribe_no_fim_do_mundo, 73).
+duracao(piratas_do_caribe_no_fim_do_mundo, 169).
+ano(piratas_do_caribe_no_fim_do_mundo, 2007).
 
 filme(hot_girls_wanted).
 genero(hot_girls_wanted, documentario).
@@ -3985,10 +3985,10 @@ nota(exterminio, 72).
 duracao(exterminio, 112).
 ano(exterminio, 2002).
 
-filme(365_dias:_hoje).
-genero(365_dias:_hoje, romance).
-genero(365_dias:_hoje, drama).
-nota(365_dias:_hoje, 59).
-duracao(365_dias:_hoje, 110).
-ano(365_dias:_hoje, 2022).
+filme(365_dias_hoje).
+genero(365_dias_hoje, romance).
+genero(365_dias_hoje, drama).
+nota(365_dias_hoje, 59).
+duracao(365_dias_hoje, 110).
+ano(365_dias_hoje, 2022).
 

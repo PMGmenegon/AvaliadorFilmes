@@ -32,36 +32,45 @@ Prolog
 📂 Estrutura do projeto
 AvaliadorFilmes/
 ├── backend/
-│ └── PegaFilmes.py
+│ ├── PegaFilmes.py
+│ ├── ConversorProlog.py
+│ ├── filmes.json
+│ └── filmes.pl
 ├── frontend/
 │ └── app.py
-├── filmes.json
 ├── requirements.txt
 └── README.md
+
 ⚙️ Como executar o projeto
 
 1. Clonar o repositório
    git clone <url-do-repositorio>
    cd AvaliadorFilmes
+
 2. Criar ambiente virtual (opcional, recomendado)
    python -m venv venv
 
 Ativar:
 
 👉 Windows:
-
 venv\Scripts\activate
 
 👉 Linux/Mac:
+source venv/bin/activate
 
-source venv/bin/activate 3. Instalar dependências
-pip install -r requirements.txt 4. Executar o backend (scraping)
-python backend/PegaFilmes.py
+3. Instalar dependências
+   pip install -r requirements.txt
 
-Isso irá gerar o arquivo:
+4. Instalar o SWI-Prolog (obrigatório)
+   https://www.swi-prolog.org/
 
-filmes.json 5. Executar o frontend (Streamlit)
-streamlit run frontend/app.py
+5. Executar o frontend (Streamlit)
+   streamlit run frontend/app.py
+
+📦 Dados do projeto
+
+Os arquivos `filmes.json` e `filmes.pl` já estão incluídos no diretório `backend`, portanto não é necessário executar o scraping nem a conversão para Prolog.
+
 📊 Dados coletados
 
 O sistema coleta as seguintes informações dos filmes:
