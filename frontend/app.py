@@ -3,143 +3,109 @@ from pyswip import Prolog
 import os
 import random
 
-st.set_page_config(page_title="Avaliador de Filmes", layout="wide")
+# Configuração da Página
+st.set_page_config(page_title="CineAvaliador", layout="wide", page_icon="🎬")
+
+# Estilização customizada para a logo e títulos
+st.markdown("""
+    <style>
+    .main-title { font-size: 3rem; font-weight: bold; color: #FFFFFF; }
+    .movie-card { background-color: #1e1e1e; padding: 20px; border-radius: 10px; margin-bottom: 10px; border-left: 5px solid #ffffff; }
+    </style>
+    """, unsafe_allow_html=True)
 
 st.title("🎬 CineAvaliador")
 
 def formatar_nome(nome):
-    return nome.replace("_", " ").title()
+    if not nome: return ""
+    # Remove aspas simples que o Prolog pode retornar em strings e troca underscores
+    return str(nome).replace("'", "").replace("_", " ").title()
 
 @st.cache_resource
 def iniciar_prolog():
     prolog = Prolog()
-    
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    
+    # Ajuste o caminho conforme sua estrutura de pastas
     caminho = os.path.join(base_dir, "..", "backend", "regras.pl")
     caminho = os.path.abspath(caminho)
-
     prolog.consult(caminho)
-    
     return prolog
 
 prolog = iniciar_prolog()
 
 # =========================
-# SIDEBAR (FILTROS ATUALIZADOS)
+# SIDEBAR (FILTROS)
 # =========================
-st.sidebar.header("🎯 Filtros")
+st.sidebar.header("🎯 Filtros de Busca")
 
-# Nota Mínima (numérico)
-nota_min = st.sidebar.slider("Nota mínima", 0, 100, 0)
+nota_min = st.sidebar.slider("Nota mínima", 0, 100, 70)
 
-# Gênero (string ou 'qualquer')
 generos = [
-    "qualquer",
-    "acao",
-    "aventura",
-    "animacao",
-    "comedia",
-    "crime",
-    "documentario",
-    "drama",
-    "fantasia",
-    "familia",
-    "ficcao_cientifica",
-    "faroeste",
-    "guerra",
-    "historia",
-    "misterio",
-    "musica",
-    "romance",
-    "terror",
-    "thriller",
-    "cinema_tv"
+    "qualquer", "acao", "aventura", "animacao", "comedia", "crime",
+    "documentario", "drama", "fantasia", "familia", "ficcao_cientifica",
+    "faroeste", "guerra", "historia", "misterio", "musica", "romance",
+    "terror", "thriller", "cinema_tv"
 ]
 
-def formatar_genero(g):
-    return g.replace("_", " ").title()
-
 genero_sel = st.sidebar.selectbox(
-    "Gênero",
-    generos,
-    format_func=formatar_genero
+    "Gênero", generos, 
+    format_func=lambda g: g.replace("_", " ").title()
 )
 
-genero_prolog = genero_sel
-
-# Duração (Categorizada conforme sua regra Prolog)
 duracao_opcoes = {"Qualquer": "qualquer", "Curto (≤ 90min)": "curto", "Longo (> 90min)": "longo"}
 duracao_sel = st.sidebar.selectbox("Duração", list(duracao_opcoes.keys()))
-duracao_prolog = duracao_opcoes[duracao_sel]
 
-# Ano (Categorizado conforme sua regra Prolog)
 ano_opcoes = {"Qualquer": "qualquer", "Recente (≥ 2016)": "recente", "Antigo (< 2016)": "antigo"}
 ano_sel = st.sidebar.selectbox("Época", list(ano_opcoes.keys()))
-ano_prolog = ano_opcoes[ano_sel]
+
+# Preparação das variáveis para a Query
+gen_p = genero_sel
+dur_p = duracao_opcoes[duracao_sel]
+ano_p = ano_opcoes[ano_sel]
 
 # =========================
-# CONSULTA USANDO A REGRA recomendar_filme
+# CONSULTA UNIFICADA (RESOLVE O NESTEDQUERYERROR)
 # =========================
-# Note que passamos os átomos do Prolog sem aspas se forem variáveis ou 'qualquer'
-query = f"recomendar_filme(X, {nota_min}, {genero_prolog}, {duracao_prolog}, {ano_prolog})"
+# Buscamos o filme e seus atributos básicos em uma única prova lógica
+query_string = f"recomendar_filme(X, {nota_min}, {gen_p}, {dur_p}, {ano_p}), nota(X, N), ano(X, A), duracao(X, D)"
 
-resultados = list(prolog.query(query))
+# O list() aqui é CRUCIAL: ele exaure a query e libera o motor do Prolog
+resultados = list(prolog.query(query_string))
 
 # =========================
-# EXIBIÇÃO DOS RESULTADOS
+# EXIBIÇÃO
 # =========================
-st.write(f"🎯 {len(resultados)} filmes encontrados")
+st.write(f"### 🎯 {len(resultados)} filmes encontrados")
 
 if resultados:
-    if st.button("🎲 Sortear Filme"):
+    # Seção de Sorteio
+    if st.button("🎲 Sortear Filme do Dia"):
         sorteado = random.choice(resultados)
-        nome = sorteado["X"]
-
-        st.success(f"🎬 Filme sorteado: {formatar_nome(nome)}")
-
-        # Buscar detalhes
-        info_nota = list(prolog.query(f"nota({nome}, N)"))
-        info_ano = list(prolog.query(f"ano({nome}, A)"))
-        info_dur = list(prolog.query(f"duracao({nome}, D)"))
-        info_gen = list(prolog.query(f"genero({nome}, G)"))
-
-        st.subheader(formatar_nome(nome))
-
-        generos = [formatar_nome(g["G"]) for g in info_gen]
-        if generos:
-            st.write("🎭 Gêneros:", ", ".join(generos))
-
-        if info_nota: st.write(f"⭐ {info_nota[0]['N']}")
-        if info_ano: st.write(f"📅 {info_ano[0]['A']}")
-        if info_dur: st.write(f"⏱️ {info_dur[0]['D']} min")
-
-        st.divider()
-else:
-    st.warning("Nenhum filme encontrado para os filtros selecionados.")
-
-for r in resultados:
-    nome = r["X"]
+        nome_s = formatar_nome(sorteado['X'])
+        st.balloons()
+        st.success(f"### 🎬 Sugestão: {nome_s}")
+        st.info(f"⭐ Nota: {sorteado['N']} | 📅 Ano: {sorteado['A']} | ⏱️ {sorteado['D']} min")
     
-    # Buscamos os detalhes adicionais para exibição
-    # (Prolog retorna o nome do átomo, ex: 'matrix')
-    info_nota = list(prolog.query(f"nota({nome}, N)"))
-    info_ano = list(prolog.query(f"ano({nome}, A)"))
-    info_dur = list(prolog.query(f"duracao({nome}, D)"))
-    info_gen = list(prolog.query(f"genero({nome}, G)"))
-
-    col1, col2 = st.columns([3, 1])
-
-    with col1:
-        st.subheader(formatar_nome(nome))
-        generos = [formatar_nome(g["G"]) for g in info_gen]
-        if generos:
-            st.write("🎭 Gêneros:", ", ".join(generos))
-
-    with col2:
-        if info_nota: st.write(f"⭐ {info_nota[0]['N']}")
-        if info_ano: st.write(f"📅 {info_ano[0]['A']}")
-        if info_dur: st.write(f"⏱️ {info_dur[0]['D']} min")
-
     st.divider()
 
+    # Listagem de filmes (Iterando sobre a lista estática, sem novas queries de atributos)
+    for r in resultados:
+        nome_f = r["X"]
+        
+        # Como um filme pode ter múltiplos gêneros, fazemos uma query rápida aqui.
+        # list() garante que ela feche antes da próxima iteração do loop.
+        info_gen = list(prolog.query(f"genero({nome_f}, G)"))
+        lista_generos = [formatar_nome(g["G"]) for g in info_gen]
+
+        with st.container():
+            col1, col2 = st.columns([3, 1])
+            with col1:
+                st.subheader(formatar_nome(nome_f))
+                st.caption(f"🎭 {', '.join(lista_generos)}")
+            with col2:
+                st.write(f"⭐ **{r['N']}**")
+                st.write(f"📅 {r['A']}")
+                st.write(f"⏱️ {r['D']} min")
+            st.divider()
+else:
+    st.warning("Nenhum filme corresponde aos filtros selecionados. Tente baixar a nota mínima!")
